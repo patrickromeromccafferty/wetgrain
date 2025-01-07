@@ -1,6 +1,6 @@
 [home](index.md) | [archive](archive.md) | [shop](shop.md)  |  [submit](submit.md)
 
-# A B O U T 
+# about 
 
 Wet Grain is an annual print magazine for new poetry in English. Its fifth issue, guest-edited by Leo Boix & Nat Teitler FRSL, 
 spotlighted the work of British Latinx poets.
@@ -13,7 +13,7 @@ etchings and are hand-printed, making each copy an original print.
 
  
 
-##Issue Five, Summer 2024 guest-edited by Leo Boix & Nat Teitler
+## Issue Five, Summer 2024 guest-edited by Leo Boix & Nat Teitler
 
 ![Issue Five](wetgrainfive.jpeg)
 
@@ -23,7 +23,7 @@ Emiliano Gomez / Juana Adcock / Patrizia Longhitano / Yessica Klein / Fiorella T
 
 
 
-##Issue Four, Summer 2023 guest-edited by Sylee Gore
+## Issue Four, Summer 2023 guest-edited by Sylee Gore
 
 ![Issue Four](wetgrainfour.jpeg)
 
@@ -32,7 +32,7 @@ Original artwork by Elżbieta Wójcik-Leese
 Madeleine Lamm / Patrick James Errington / Isabelle Baafi / Caleb Leow / Kathleen Heil / Lutz Seiler (trans. Stefan Tobler) / Heidi Williamson / Sara Larsen / Rusk Wick / Jed Munson / Gabriel Levine Brislin / Paul Stephenson / Rob A, Mackenzie / Agata  Maszlowska / Elzbieta Wojcek-Leese / Alia Zapparova / Nur Turkmani / Laura Theis / Laura Varnam / Cristina Rivera Garza / Laura Davis / Leah Umansky / Tom Branfoot / S.J. Delaney / Imogen Reid / Rise / Roshni Gallagher / Sneha Subramanian Kanta / Lubi Barre / Samuel Tongue / Jamie Cameron / Maggie Wang 
 
 ​
-##Issue Three, Summer 2022 guest-edited by Nasim Luczaj
+## Issue Three, Summer 2022 guest-edited by Nasim Luczaj
 
 ![wetgrain three](wetgrainthree.jpeg)
  
@@ -41,7 +41,7 @@ Original artwork by Rosie Watt
 Bob Beagrie / Niall Campbell / Tim Tim Cheng / Ken Cockburn / Silas Curtis / Desree / Cecily Fasham / M.J. Griffin / Jeremy Allan Hawkins / Charles Lang / David Ross Linklater / John Chinaka Onyeche / Ellen Renton / Tawona Sithole / Alan Spence / Carine Topal / Lynn Valentine / Cecilia Woloch
 
 
-##Issue Two, Summer 2021 co-edited by Christian Lemay
+## Issue Two, Summer 2021 co-edited by Christian Lemay
 
 ![Wet Grain Two](wetgraintwo.jpeg)
 
@@ -50,7 +50,7 @@ Original artwork by Andreas Christodoulidis
 River Ellen MacAskill / Michael W. Thomas / Natalie Chunmin Fong / Liam Welsh / Nasim Luczaj / Alec Finlay / Robin Leiper / Stella Hervey Birrell / Richie McCaffery / Caroline Maldonaldo / Davinia Hamilton / Arthur Allen / Josh Smyth / Jack Bigglestone / Joseph Minden / Shane Johnstone / Deborah Tyler-Bennett / Alice Hill-Woods / Scott Lilley / Alice Lannon / Morag Smith / Samuel Skoog / Edgar M. Caamano / Allie Kerper / Maria Sledmere / Richard Price / Owen Gallagher / Gerry Stewart / Louis Norman / Sylee Gore
 
 ​
-##Issue One, Autumn 2020 co-edited by Christian Lemay 
+## Issue One, Autumn 2020 co-edited by Christian Lemay 
 
 ![Wet Grain One](wetgrain1.jpeg)
 

@@ -1,4 +1,6 @@
+[home](index.md) | [archive](archive.md) | [shop](shop.md)  |  [submit](submit.md)
 
+# submit
 
 
 Submissions for Issue Six, guest-edited by Eloise Birtwhistle, Charles Lang, and Nasim Luczaj, are open until 4th April 2025 at midnight.

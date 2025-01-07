@@ -16,7 +16,7 @@
 
 ### Issue Two
 
-[Nasim Luczaj reads 'SAy', 'BREAK' & 'AJAR'](https://www.youtube.com/watch?v=vMClgvzcHdg)
+[Nasim Luczaj reads 'SAY', 'BREAK' & 'AJAR'](https://www.youtube.com/watch?v=vMClgvzcHdg)
 
 ### Issue One
 

@@ -1,5 +1,7 @@
 [home](index.md) | [archive](archive.md) | [shop](shop.md)  |  [submit](submit.md)
 
+A B O U T 
+
 Wet Grain is an annual print magazine for new poetry in English. Its fifth issue, guest-edited by Leo Boix & Nat Teitler FRSL, 
 spotlighted the work of British Latinx poets.
 
@@ -50,7 +52,7 @@ River Ellen MacAskill / Michael W. Thomas / Natalie Chunmin Fong / Liam Welsh / 
 ​
 Issue One, Autumn 2020 co-edited by Christian Lemay 
 
-![Wet Grain One](wetgrainone.jpeg)
+![Wet Grain One](wetgrain1.jpeg)
 
 Original artwork by Laura Wade
  

@@ -4,7 +4,7 @@
 
 ### Issue Five
 
-[Untying the String: An interview with Juana Adock](interview.md)
+[Unknotting the String: An interview with Juana Adock](interview.md)
 
 ### Issue Four
 

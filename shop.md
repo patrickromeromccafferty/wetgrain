@@ -1,1 +1,4 @@
 
+# shop
+
+To purchase copies 

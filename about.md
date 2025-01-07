@@ -11,7 +11,8 @@ the Pushcart Prize, the German Book Prize, and the Eric Gregory.
 Each issue, selected poets are invited to contribute a short piece of commentary on work included in the issue. Covers feature commissioned
 etchings and are hand-printed, making each copy an original print. 
 
- 
+The magazine was founded by Christian Lemay and Patrick Romero McCafferty
+
 
 ### Issue Five, Summer 2024, guest-edited by Leo Boix & Nat Teitler
 

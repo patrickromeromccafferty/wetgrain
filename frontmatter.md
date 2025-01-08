@@ -1,3 +1,4 @@
+[home](index.md) | [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
 ## Guest Editor’s Note
 
 When Patrick asked me to guest edit the fourth issue of Wet Grain, we were on the top floor of a museum, overlooking eaves and statuary. I came to our conversation with a deep fondness for the print poetry journal, which he established in 2020.

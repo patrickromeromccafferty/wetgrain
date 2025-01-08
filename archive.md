@@ -8,7 +8,7 @@
 
 ### Issue Four
 
-[Two Poems by Isabelle Baafi](poems.md)
+[Guest Editor's Note & Editorial](frontmatter.md)
 
 ### Issue Three
 

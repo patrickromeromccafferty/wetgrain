@@ -1,6 +1,6 @@
-# w e t  g r a i n
 
-[about](about.md)  |  [buy](buy.md)  |  [archive](archive.md)  |  [submit](submit.md)
+
+[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 
 ![Wet Grain Five](wetgrainfive2.jpeg)
 

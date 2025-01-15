@@ -3,7 +3,7 @@
 # submit
 
 
-Submissions for Issue Six, guest-edited by Eloise Birtwhistle, ![Charles Lang](https://charleslangpoetry.wordpress.com/), and ![Nasim Luczaj](https://nasimluczaj.com/), are open until 4th April 2025 at midnight.
+Submissions for Issue Six, guest-edited by Eloise Birtwhistle, [Charles Lang](https://charleslangpoetry.wordpress.com/), and [Nasim Luczaj](https://nasimluczaj.com/), are open until 4th April 2025 at midnight.
 
 ​
 Guidelines:

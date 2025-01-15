@@ -10,6 +10,8 @@ the Pushcart Prize, the German Book Prize, and the Eric Gregory.
 Each issue, selected poets are invited to contribute a short piece of commentary on a poem included in the issue. Covers feature commissioned
 etchings and are hand-printed, making each copy an original print. 
 
+Submissions are open for Issue Six, guest-edited by Nasim Luczaj, Eloise Birtwhistle, & Charles Lang, until the 4th April 2025 (see our submission guidelines [here](submit.mc))
+
 The magazine was founded by Christian Lemay and Patrick Romero McCafferty.
 
 

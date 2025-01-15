@@ -7,7 +7,9 @@ Our shop operates on a good faith basis. To purchase copies please email wetgrai
 2. Number of copies
 3. Delivery address
 
-We will reply with an invoice including the postage and mail your copies to you when we receive your payment.
+We will reply with an invoice including the postage and post your copies to you when we receive your payment.
+
+If you wish to support the magazine, you can also pre-order a forthcoming issue.
 
 1. Issue Five, Summer 2024 - £9
 2. Issue Four, Summer 2023 - £9 (Sold Out)

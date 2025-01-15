@@ -23,13 +23,13 @@ Emiliano Gomez / Juana Adcock / Patrizia Longhitano / Yessica Klein / Fiorella T
 
 
 
-### Issue Four, Summer 2023, guest-edited by Sylee Gore
+### Issue Four, Summer 2023, guest-edited by ![Sylee Gore](https://syleegore.com/)
 
 ![Issue Four](wetgrainfour.jpeg)
 
 Original artwork by Elżbieta Wójcik-Leese
 
-Madeleine Lamm / Patrick James Errington / Isabelle Baafi / Caleb Leow / Kathleen Heil / Lutz Seiler (trans. Stefan Tobler) / Heidi Williamson / Sara Larsen / Rusk Wick / Jed Munson / Gabriel Levine Brislin / Paul Stephenson / Rob A, Mackenzie / Agata  Maszlowska / Elzbieta Wojcek-Leese / Alia Zapparova / Nur Turkmani / Laura Theis / Laura Varnam / Cristina Rivera Garza / Laura Davis / Leah Umansky / Tom Branfoot / S.J. Delaney / Imogen Reid / Rise / Roshni Gallagher / Sneha Subramanian Kanta / Lubi Barre / Samuel Tongue / Jamie Cameron / Maggie Wang 
+Madeleine Lamm / Patrick James Errington / Isabelle Baafi / Caleb Leow / Kathleen Heil / Lutz Seiler (trans. Stefan Tobler) / Heidi Williamson / Sara Larsen / Rush Wick / Jed Munson / Gabriel Levine Brislin / Paul Stephenson / Rob A, Mackenzie / Agata  Maszlowska / Elzbieta Wojcek-Leese / Alia Zapparova / Nur Turkmani / Laura Theis / Laura Varnam / Cristina Rivera Garza / Laura Davis / Leah Umansky / Tom Branfoot / S.J. Delaney / Imogen Reid / Rise / Roshni Gallagher / Sneha Subramanian Kanta / Lubi Barre / Samuel Tongue / Jamie Cameron / Maggie Wang 
 
 ​
 ### Issue Three, Summer 2022, guest-edited by Nasim Luczaj
@@ -41,7 +41,7 @@ Original artwork by Rosie Watt
 Bob Beagrie / Niall Campbell / Tim Tim Cheng / Ken Cockburn / Silas Curtis / Desree / Cecily Fasham / M.J. Griffin / Jeremy Allan Hawkins / Charles Lang / David Ross Linklater / John Chinaka Onyeche / Ellen Renton / Tawona Sithole / Alan Spence / Carine Topal / Lynn Valentine / Cecilia Woloch
 
 
-### Issue Two, Summer 2021, co-edited by Christian Lemay
+### Issue Two, Summer 2021, co-edited with Christian Lemay
 
 ![Wet Grain Two](wetgraintwo.jpeg)
 
@@ -50,7 +50,7 @@ Original artwork by Andreas Christodoulidis
 River Ellen MacAskill / Michael W. Thomas / Natalie Chunmin Fong / Liam Welsh / Nasim Luczaj / Alec Finlay / Robin Leiper / Stella Hervey Birrell / Richie McCaffery / Caroline Maldonaldo / Davinia Hamilton / Arthur Allen / Josh Smyth / Jack Bigglestone / Joseph Minden / Shane Johnstone / Deborah Tyler-Bennett / Alice Hill-Woods / Scott Lilley / Alice Lannon / Morag Smith / Samuel Skoog / Edgar M. Caamano / Allie Kerper / Maria Sledmere / Richard Price / Owen Gallagher / Gerry Stewart / Louis Norman / Sylee Gore
 
 ​
-### Issue One, Autumn 2020, co-edited by Christian Lemay 
+### Issue One, Autumn 2020, co-edited with Christian Lemay 
 
 ![Wet Grain One](7F3EE655-B193-45E7-9DE5-E31BE1D01B93.jpeg)
 

@@ -25,7 +25,7 @@ Emiliano Gomez / Juana Adcock / Patrizia Longhitano / Yessica Klein / Fiorella T
 
 
 
-### Issue Four, Summer 2023, guest-edited by ![Sylee Gore](https://syleegore.com/)
+### Issue Four, Summer 2023, guest-edited by [Sylee Gore](https://syleegore.com/)
 
 ![Issue Four](wetgrainfour.jpeg)
 

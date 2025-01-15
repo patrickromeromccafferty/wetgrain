@@ -52,7 +52,7 @@ River Ellen MacAskill / Michael W. Thomas / Natalie Chunmin Fong / Liam Welsh / 
 ​
 ### Issue One, Autumn 2020, co-edited by Christian Lemay 
 
-![Wet Grain One](wetgrainone.jpeg)
+![Wet Grain One](7F3EE655-B193-45E7-9DE5-E31BE1D01B93.jpeg)
 
 Original artwork by Laura Wade
  

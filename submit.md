@@ -16,5 +16,7 @@ Guidelines:
 6. We encourage and actively seek work by poets from underrepresented and marginalised backgrounds.
 7. We regret not to offer payment for contributions at this time, though we hope this will change soon.
 
+![Wet Grain Symbol](64476F79-6159-40AD-9A2E-5FAAC64F5E07.jpeg)
+
 
 

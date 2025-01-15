@@ -14,5 +14,5 @@ Guidelines:
 4. If you haven’t already, we encourage prospective contributors to familiarise themselves with the types of poetry we publish by purchasing a copy of a previous issue.
 5. We encourage and actively seek work by poets from underrepresented backgrounds, including BIPOC, LGBTQ+, neurodivergent, rural, and working-class.
 
-
+![Wet Grain Symbol](64476F79-6159-40AD-9A2E-5FAAC64F5E07.jpeg)
 

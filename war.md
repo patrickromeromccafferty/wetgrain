@@ -1,7 +1,7 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 
-Before the War  
-Cristina Rivera Garza  
+## Before the War  
+### *Cristina Rivera Garza* 
   
 Somewhere in May falls
 this same drizzle. The same sky

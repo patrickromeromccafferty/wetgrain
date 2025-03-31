@@ -1,7 +1,7 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 
 ## Before the War  
-### *Cristina Rivera Garza* 
+
   
 Somewhere in May falls
 this same drizzle. The same sky
@@ -97,5 +97,7 @@ open your mouth, swallow
 your own words what you said:  
 immortality lasted so little.
 
+
+#### *Cristina Rivera Garza* 
 
 

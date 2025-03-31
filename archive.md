@@ -5,12 +5,13 @@
 ### Issue Five
 
 [Unknotting the String: An interview with Juana Adock](interview.md)  
-[Hubert Matiúwàa, The Rooster](rooster.md)
+['The Rooster', Hubert Matiúwàa](rooster.md)
 
 
 ### Issue Four
 
-[Guest Editor's Note & Editorial](frontmatter.md)
+[Guest Editor's Note & Editorial](frontmatter.md)  
+['Before the War', Cristina Rivera Garza](war.md)
 
 ### Issue Three
 

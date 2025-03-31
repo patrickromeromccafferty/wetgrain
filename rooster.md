@@ -1,9 +1,9 @@
 Mbàxtá
 
-Ni’thíin mbàxtá:
-Magajáa ajngó’ mbámba mbi’i
-asndo rí màxmá nímìaan
-khamí nìmbá mi’tsú maxá trastrákha ìdxàà.
+Ni’thíin mbàxtá:  
+Magajáa ajngó’ mbámba mbi’i  
+asndo rí màxmá nímìaan  
+khamí nìmbá mi’tsú maxá trastrákha ìdxàà.  
 
 Maxá mìñàa xí imbá xuajén idxà’nú, 
 xí júbà najne xtíñáa

@@ -1,7 +1,7 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)  
   
 ## The rooster
-### *Hubert Matiúwàa*
+
 
 The rooster said to me:  
 My voice will grow day by day  
@@ -56,3 +56,5 @@ khamí jamboò àña’ rí nisngájmáa xiñàa.
 
 Xí ríga ì’di,  
 màrigá’ màngaa xdúu àjuan’ rí màñaún ná jùwá ló’.  
+
+#### *Hubert Matiúwàa*

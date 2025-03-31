@@ -32,7 +32,7 @@ so will there be bullets to defend what’s ours.
      
      
          
-# Mbàxtá
+## Mbàxtá
 
 Ni’thíin mbàxtá:  
 Magajáa ajngó’ mbámba mbi’i  

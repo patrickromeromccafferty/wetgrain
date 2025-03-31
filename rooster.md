@@ -1,3 +1,32 @@
+# The rooster
+## *Hubert Matiúwàa*
+
+The rooster said to me:  
+My voice will grow day by day  
+until your heart trembles  
+and you no longer keep your head down.  
+
+Don’t be afraid if you reach another town,  
+if the mountain dresses you  
+and you get tangled up in another language.  
+
+Respect the cicada  
+that they buried in your throat  
+and the veins in your arm  
+given to you by the calabash for being playful.  
+
+Each morning I crow at the world:  
+I don’t want any brother walked over.  
+The stars must hear  
+how your arms give strength to the land you were given.  
+Never sell the few flowers  
+where your parents wept  
+nor the path of the deer taught to you by Grandmother.  
+
+If there is blood,  
+so will there be bullets to defend what’s ours.  
+
+
 Mbàxtá
 
 Ni’thíin mbàxtá:  

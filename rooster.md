@@ -25,10 +25,12 @@ nor the path of the deer taught to you by Grandmother.
 
 If there is blood,  
 so will there be bullets to defend what’s ours.  
+  
+  
 
 
-
-Mbàxtá
+    
+# Mbàxtá
 
 Ni’thíin mbàxtá:  
 Magajáa ajngó’ mbámba mbi’i  

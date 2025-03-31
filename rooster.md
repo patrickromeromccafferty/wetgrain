@@ -1,7 +1,7 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)  
   
-# The rooster
-## *Hubert Matiúwàa*
+## The rooster
+### *Hubert Matiúwàa*
 
 The rooster said to me:  
 My voice will grow day by day  

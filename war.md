@@ -3,32 +3,32 @@
 ## Before the War  
 
   
-Somewhere in May falls
-this same drizzle. The same sky
+Somewhere in May falls  
+this same drizzle. The same sky  
 
-shrouds a city I loved  
-enough to let it go  
+shrouds a city I loved   
+enough to let it go   
 
-barely looking back
-I return on occasion. To stare  
+barely looking back  
+I return on occasion. To stare     
 
-you learn against your will, over time  
-all faces vanish away  
+you learn against your will, over time    
+all faces vanish away    
 
-behind a window. Hands  
-twitch or thin they  
+behind a window. Hands   
+twitch or thin they    
 
-touch in May or now  
-what is not there  
+touch in May or now    
+what is not there    
 
-utters your name, tentatively  
-fingerprints spell
+utters your name, tentatively    
+fingerprints spell  
 
-pieces of dirt on the glass  
-block the sight of waterdrops.  
+pieces of dirt on the glass    
+block the sight of waterdrops.    
 
-Once upon a time there was a deadless city  
-in that city I forage your voice  
+Once upon a time there was a deadless city    
+in that city I forage your voice    
 
 the two legs of desire crawled  
 on old yellow tiles  
@@ -39,7 +39,7 @@ fainting under the weight of a wing
 destruction had already begun, animals  
 howled as instants before the earthquake  
 
-we confused our desire to love with panic
+we confused our desire to love with panic  
 for the future came that whiff of the moribund.  
 
 Meanwhile we walked, meanwhile  
@@ -52,9 +52,9 @@ in reality faces are always cruder
 gestures less sharp  
 
 a hand waving in the air is not a goodbye it is  
-a blow
+a blow  
 
-that did not happen, a blow  
+that did not happen, a blow   
 
 suspended in the sky unseals the scar.  
 Nobody knows if they will survive, nobody  
@@ -95,7 +95,7 @@ without graves without cavities the city
 open your mouth, swallow  
 
 your own words what you said:  
-immortality lasted so little.
+immortality lasted so little.  
 
 
 #### *Cristina Rivera Garza* 

@@ -2,7 +2,7 @@
 
 # about 
 
-Wet Grain is an annual print magazine for new poetry in English. Its fifth, most recent issue, guest-edited by Leo Boix & Nat Teitler FRSL & published in July 2024, spotlighted the work of Latinx poets living in the UK. It also featured work in translation from across Latin America.
+Wet Grain is an annual print magazine for new poetry in English. Its most recent issue (July 2024), guest-edited by Leo Boix & Nat Teitler FRSL, spotlighted the work of Latinx poets living in the UK. It also featured work in translation from across Latin America.
 
 Since 2020, the magazine has included the work of emerging poets alongside recipients of awards including the Pulitzer, a MacArthur Fellowship, the Pushcart Prize, the German Book Prize, and the Eric Gregory. 
 
@@ -10,7 +10,7 @@ Each issue, selected poets are invited to contribute a short piece of commentary
 
 Submissions are open for Issue Six, guest-edited by Nasim Luczaj, Eloise Birtwhistle, & Charles Lang, until the 4th April 2025 (see our submission guidelines [here](submit.md))
 
-The magazine was founded by Christian Lemay & Patrick Romero McCafferty and is based in Edinburgh, Scotland.
+The magazine was founded by Christian Lemay & [Patrick Romero McCafferty](https://patrickromeromccafferty.com/) and is based in Edinburgh, Scotland.
 
 
 ### Issue Five, Summer 2024, guest-edited by Leo Boix & Nat Teitler

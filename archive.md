@@ -4,7 +4,7 @@
 
 ### Issue Five
 
-[Unknotting the String: An interview with Juana Adock](interview.md)  
+[Unknotting the String: An interview with Juana Adcock](interview.md)  
 ['The Rooster', Hubert Matiúwàa](rooster.md)
 
 

@@ -25,4 +25,5 @@
 
 ### Issue One
 
+['Daylighting', Eloise Birtwhistle](daylighting.md)
 [Elle Heedles reads 'White Noise' & 'Last Summer'](https://www.youtube.com/watch?v=4sHGkQGLQNg)

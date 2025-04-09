@@ -1,4 +1,6 @@
-Daylighting
+[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+
+## Daylighting
 
 She has bad dreams when she moves  
 into the spare room. She asks questions  
@@ -60,4 +62,4 @@ with its silk case of remnants
 submerged in ochres, pools of  
 peat and rust.
 
-*Eloise Birtwhistle*
+### *Eloise Birtwhistle*

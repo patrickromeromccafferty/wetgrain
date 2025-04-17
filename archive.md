@@ -19,6 +19,8 @@
 
 [Tessa Berring reads 'The Future Has to be Shoved Out the Way So We Can Get Past'](https://www.youtube.com/watch?v=cRRlD1qtO00)
 
+['Tír na Coille Cailleannaich', Charles Lang](clang.md)
+
 ### Issue Two
 
 [Nasim Luczaj reads 'SAY', 'BREAK' & 'AJAR'](https://www.youtube.com/watch?v=vMClgvzcHdg)

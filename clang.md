@@ -1,6 +1,6 @@
-
-
-Tír na Coille Cailleannaich  
+[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)  
+  
+##Tír na Coille Cailleannaich  
   
 That candle we bought  
 it smells a bit like wid,  
@@ -17,4 +17,4 @@ fur miles thegither, talkin endlessly.
 I light it n picture a Caledonian forest,  
 somewhere beyond the west coast.  
   
-Charles Lang
+#### *Charles Lang*

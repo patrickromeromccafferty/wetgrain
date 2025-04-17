@@ -1,5 +1,7 @@
 
-Q. Let’s talk a bit more about that decision to shift away from organic materials.  
+[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+
+## Q. Let’s talk a bit more about that decision to shift away from organic materials.  
   
 *A. Plenty of my peers claimed new materials for art. Time. Neon. Fat.*  
 
@@ -21,4 +23,4 @@ Q. Let’s talk a bit more about that decision to shift away from organic materi
 
 *A. As it happens, my next project is in wood.*  
 
-*Sylee Gore*
+#### *Sylee Gore*

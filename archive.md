@@ -23,7 +23,7 @@
 
 ### Issue Two
 
-[Nasim Luczaj reads 'SAY', 'BREAK' & 'AJAR'](https://www.youtube.com/watch?v=vMClgvzcHdg)
+[Nasim Luczaj reads 'SAY', 'BREAK' & 'AJAR'](https://www.youtube.com/watch?v=vMClgvzcHdg)  
 ['Q: Let's talk a bit more about the decision to shift away from organic materials', Sylee Gore](sgore.md)
 
 ### Issue One

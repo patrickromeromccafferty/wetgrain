@@ -52,6 +52,7 @@ It’s as if splitting past from future is an impossible task. Tomorrow’s tech
 Bing-AI) have their predecessors in the predictive text of 12-key Nokia handsets, and once  
 advanced text-generators are outdated by the day. In Theis’s poem, the forked paths of autocomplete  
 lead back onto themselves in a monologic maze. The future talks in circles: a fragile feedback  
-loop that quite literally takes the words right out of our mouths. By the end, ‘the poem is very   enthusiastic about it all,’ the poet no- where to be seen.  
+loop that quite literally takes the words right out of our mouths. By the end,   
+‘the poem is very enthusiastic about it all,’ the poet nowhere to be seen.  
   
 GABRIEL LEVINE BRISLIN

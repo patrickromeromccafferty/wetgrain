@@ -20,6 +20,12 @@ somewhere beyond the west coast.
 #### *Charles Lang*
 
 
+
+
+
+
+
+              
 Note
 
 Charles Lang’s ‘Tír na Coille Cailleannaich’ casts an image of Scotland’s ecological consciousness   

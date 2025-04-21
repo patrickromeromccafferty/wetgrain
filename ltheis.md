@@ -19,9 +19,9 @@ I have a poem in which I use the words wolf
 it down into our satchels and pretend  
 it isn’t there  
   
-I have a summer
-I have a poem
-I think you should meet
+I have a summer  
+I have a poem  
+I think you should meet  
   
 I have a poem in which I use the words   
 I have a future  

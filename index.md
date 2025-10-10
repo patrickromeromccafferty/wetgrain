@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="/assets/images/Wet-grain.png" width="300">
+  <img src="Wet-grain.png" width="300">
 </p>
 
 

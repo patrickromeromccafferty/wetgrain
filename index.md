@@ -1,7 +1,4 @@
----
-layout: default
-title: ""
----
+
 
 <p align="left">
   <img src="/assets/images/Wet-grain-logo.png" width="300">

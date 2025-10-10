@@ -1,9 +1,15 @@
-<!-- Remove or comment out any existing blue page title here -->
+---
+layout: default
+title: ""
+---
 
-<!-- Replace with the image as the title -->
-<p align="center">
-  <img src="https://example.com/Wet-grain-transparent.png">
+<p align="left">
+  <img src="/assets/images/Wet-grain-logo.png" alt="Wet Grain Logo" width="300">
 </p>
+
+<!-- Your content goes here -->
+Welcome to Wet Grain!
+
 
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 

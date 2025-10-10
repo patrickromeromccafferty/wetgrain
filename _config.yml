@@ -1,0 +1,11 @@
+theme: minima
+markdown: kramdown
+
+# Enable custom styles
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/custom.css"

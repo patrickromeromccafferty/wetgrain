@@ -1,4 +1,4 @@
-[home](index.md) | [about](about.md) | [archive](archive.md)  |  [submit](submit.md)
+[home](index.md) | [about](about.md) | [archive](archive.md)  |  [submissions](submit.md)
 # shop
 
 Our shop operates on a good faith basis. To purchase copies please email wetgrainpoetry [at] protonmail.com with the following details:

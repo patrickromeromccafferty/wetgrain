@@ -1,5 +1,8 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 
-![Wet Grain 5](IMG_0694.jpeg)
+<p align="center">
+  <img src="issuessixhomepage.jpeg" alt="bathers" width="400">
+</p>
+
 
 

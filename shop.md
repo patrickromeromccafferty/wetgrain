@@ -18,8 +18,7 @@ If you wish to support the magazine, you can also pre-order a forthcoming issue.
 5. Issue Two, Summer 2021 - £9
 6. Issue One, Summer 2020 - £9 (Sold Out)
 
-![Wet Grain Two](wetgraintwo2.jpeg)
 
 <p align="center">
-  <img src="table.jpeg" alt="banquet" width="800">
+  <img src="table.jpeg" alt="banquet" width="400">
 </p>

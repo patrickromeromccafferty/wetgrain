@@ -1,3 +1,5 @@
+[home](index.md) | [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+
 ### Issue Three, Summer 2022, guest-edited by Nasim Luczaj
 
 ![wetgrain three](wetgrainthree.jpeg)

@@ -1,6 +1,6 @@
 [home](index.md) | [archive](archive.md) | [shop](shop.md)  |  [about](about.md)
 
-# submit
+# submissions
 
 
 We will be open again for submissions of poetry and prose in 1st December 2025 until the 31st January 2026.

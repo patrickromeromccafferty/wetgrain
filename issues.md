@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="issuesix.md">
-    <img src="issuesix.jpeg" alt="Issue Six" width="100"/>
+    <img src="issuesix.png" alt="Issue Six" width="300"/>
   </a>
   <a href="issuefive.md">
-    <img src="issuefive.jpeg" alt="Issue Five" width="100"/>
+    <img src="issuefive.jpeg" alt="Issue Five" width="300"/>
   </a>
   <a href="issuefour.md">
-    <img src="issuefour.jpeg" alt="Issue Four" width="100"/>
+    <img src="issuefour.png" alt="Issue Four" width="300"/>
   </a>
 </p>
 

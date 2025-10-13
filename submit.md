@@ -3,7 +3,7 @@
 # submissions
 
 
-We will be open again for submissions of poetry and prose in 1st December 2025 until the 31st January 2026.
+We will be open again for submissions of poetry and prose from 1st December 2025 until the 31st January 2026.
 
 ​
 General Guidelines:

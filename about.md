@@ -11,7 +11,7 @@ Each issue, selected poets are invited to contribute a short piece of commentary
 The magazine was founded by Christian Lemay & [Patrick Romero McCafferty](https://patrickromeromccafferty.com/).
 
 <p align="center">
-  <img src="about.jpeg.jpeg" alt="bathers" width="400">
+  <img src="about.jpeg" alt="a" width="400">
 </p>
 
 

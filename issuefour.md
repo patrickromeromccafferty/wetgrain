@@ -1,7 +1,4 @@
----
-layout: default
-title: Issue Four
----
+
 ### Issue Four, Summer 2023, guest-edited by [Sylee Gore](https://syleegore.com/)
 
 ![Issue Four](wetgrainfour.jpeg)

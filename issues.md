@@ -5,7 +5,7 @@
     <img src="issuesix.jpeg" alt="Issue Six" width="300"/>
   </a>
   <a href="issuefive.md">
-    <img src="issuefive.jpeg" alt="Issue Five" width="300"/>
+    <img src="issuefive.jpeg" alt="Issue Five" width="200"/>
   </a>
   <a href="issuefour.md">
     <img src="issuefour.jpeg" alt="Issue Four" width="300"/>

@@ -3,10 +3,10 @@
 # submit
 
 
-Submissions of poetry and prose for Issue Six, guest-edited by Eloise Birtwhistle, [Charles Lang](https://charleslangpoetry.wordpress.com/), and [Nasim Luczaj](https://nasimluczaj.com/), are open until 4th April 2025 at midnight.
+We will be open again for submissions of poetry and prose in 1st December 2025 until the 31st January 2026.
 
 ​
-Guidelines:
+General Guidelines:
 
 1. Please send up to five shorter poems as a .doc or .docx (30 lines or less) via email to wetgrainpoetry [at] protonmail.com with your name in the title of the document.
 2. We are currently looking for essays (max. 3000 words) & reviews (max. 1500 words) of contemporary poetry only.

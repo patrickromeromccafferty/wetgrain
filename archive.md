@@ -1,4 +1,4 @@
-[home](index.md) | [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
+[home](index.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
 # archive
 

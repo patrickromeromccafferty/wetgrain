@@ -17,7 +17,7 @@
     <img src="pictures/issue3.png" alt="Issue Six" width="300"/>
   </a>
   <a href="issuetwo.md">
-    <img src="pictures/issue2.png" alt="Issue Five" width="300"/>
+    <img src="pictures/wg2icon.png" alt="Issue Five" width="300"/>
   </a>
   <a href="issueone.md">
     <img src="pictures/wg1icon.png" alt="Issue Four" width="300"/>

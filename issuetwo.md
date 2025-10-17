@@ -7,7 +7,7 @@ Alec Finlay / Robin Leiper / Stella Hervey Birrell / Richie McCaffery / Caroline
 Davinia Hamilton / Arthur Allen / Josh Smyth / Jack Bigglestone / Joseph Minden / Shane Johnstone /   
 Deborah Tyler-Bennett / Alice Hill-Woods / Scott Lilley / Alice Lannon / Morag Smith /   
 Samuel Skoog / Edgar M. Caamano / Allie Kerper / Maria Sledmere / Richard Price / Owen Gallagher /  
-Gerry Stewart / Louis Norman / [Sylee Gore](gore.md)  
+Gerry Stewart / Louis Norman / [Sylee Gore](poems/sgore.md)  
 
 <p align="center">
 ​ <img src="pictures/wg2bk.png" alt="Issue Four" width="400"/>

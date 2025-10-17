@@ -2,24 +2,24 @@
 
 <p align="center">
   <a href="issuesix.md">
-    <img src="issue6.png" alt="Issue Six" width="200"/>
+    <img src="pictures/issue6.png" alt="Issue Six" width="200"/>
   </a>
   <a href="issuefive.md">
-    <img src="issue5.png" alt="Issue Five" width="300"/>
+    <img src="pictures/issue5.png" alt="Issue Five" width="300"/>
   </a>
   <a href="issuefour.md">
-    <img src="issue4.png" alt="Issue Four" width="300"/>
+    <img src="pictures/issue4.png" alt="Issue Four" width="300"/>
   </a>
 </p>
 
 <p align="center">
   <a href="issuethree.md">
-    <img src="issue3.png" alt="Issue Six" width="300"/>
+    <img src="pictures/issue3.png" alt="Issue Six" width="300"/>
   </a>
   <a href="issuetwo.md">
-    <img src="issue2.png" alt="Issue Five" width="300"/>
+    <img src="pictures/issue2.png" alt="Issue Five" width="300"/>
   </a>
   <a href="issueone.md">
-    <img src="issue1.png" alt="Issue Four" width="300"/>
+    <img src="pictures/issue1.png" alt="Issue Four" width="300"/>
   </a>
 </p>

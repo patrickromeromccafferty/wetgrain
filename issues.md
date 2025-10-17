@@ -16,7 +16,7 @@
   <a href="issuethree.md">
     <img src="pictures/wg3icon.png" alt="Issue Six" width="400"/>
   </a>
-  <a href="issuetwo.md">
+  <a href="issuetwo.html">
     <img src="pictures/wg2icon.png" alt="Issue Five" width="400"/>
   </a>
   <a href="issues/issueone.html">

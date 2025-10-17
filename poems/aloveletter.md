@@ -1,4 +1,4 @@
-## A love letter to my ex-psychoanalyst Anouchka Grose, whose outfits I very much enjoyed, and who sometimes stopped me from taking my own life, which would make this therapy rather than poetry regardless of how I dress it – there, I said it 
+### A love letter to my ex-psychoanalyst Anouchka Grose, whose outfits I very much enjoyed, and who sometimes stopped me from taking my own life, which would make this therapy rather than poetry regardless of how I dress it – there, I said it 
   
 I message you / the analyst I stopped seeing / I say ‘Hi many years ago you told me I should probably do
 something around writing / I eventually am / Wanted to say thankyou for that’ / And I send you the link
@@ -18,6 +18,6 @@ you / for when I read ‘So’ to you / my sorriest mess / ‘when the kids are 
 the only time / you cried too / and only then I knew / that it was real / not just / some shit I was making
 up in my head / I was not alone / but I stopped seeing you / anyway / funny isn’t it? / and that’s the end
 
-# Sim Pereira-Madder
+#### *Sim Pereira-Madder*
 
 

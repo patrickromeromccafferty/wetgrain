@@ -11,7 +11,7 @@
 Angel' **Alice Lannon** / 'After School, December' **Morag Smith** / 'Wargaming' **Samuel Skoog** / 'Questions and kite' **Edgar M. Caamano** /  
 'There Are Multiple Photos of Hermit Crabs with Doll Heads for Shells' **Allie Kerper** / 'Prairie Oyster Sonnet', 'Evangeline', 'Golden Delicious' **Maria Sledmere** /   
 'The Old Woman Who Changed Herself into a Man' **Richard Price** / 'The Tea Towel' **Owen Gallagher** /  'Ruchill Hospital' **Gerry Stewart** /   
-'River Swim' **Louis Norman** / ['Q. Let’s talk a bit more about that decision to shift away from organic materials.' Sylee Gore](poems/sgore.md)**    
+'River Swim' **Louis Norman** / ['Q. Let’s talk a bit more about that decision to shift away from organic materials.' Sylee Gore](poems/sgore.md)   
 
 <p align="center">
 ​ <img src="pictures/wg2bk.png" alt="Issue Four" width="400"/>

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="issuethree.md">
-    <img src="pictures/issue3.png" alt="Issue Six" width="300"/>
+    <img src="pictures/wg3icon.png" alt="Issue Six" width="300"/>
   </a>
   <a href="issuetwo.md">
     <img src="pictures/wg2icon.png" alt="Issue Five" width="300"/>

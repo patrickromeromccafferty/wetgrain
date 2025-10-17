@@ -20,5 +20,5 @@ If you wish to support the magazine, you can also pre-order a forthcoming issue.
 
 
 <p align="center">
-  <img src="table.jpeg" alt="banquet" width="400">
+  <img src="pctures/table.jpeg" alt="banquet" width="400">
 </p>

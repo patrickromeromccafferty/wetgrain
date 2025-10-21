@@ -1,10 +1,9 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
-<p align="right"> 
- 
-  [back to ISSUE TWO](issuetwo.md) 
-  
-</p> 
+<div align="right">
+  <a href="issuetwo.md">back to ISSUE TWO</a>
+</div>
+
 
 ## There Are Multiple Photos of Hermit Crabs with Doll Heads for Shells
 <br>

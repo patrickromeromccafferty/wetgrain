@@ -8,4 +8,5 @@
 
 <p align="center">
 ​ <img src="wg1bk.png" alt="Issue Four" width="1000"/>
-Original artwork by Laura Wade
+
+  Original artwork by Laura Wade

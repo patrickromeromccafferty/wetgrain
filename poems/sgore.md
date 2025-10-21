@@ -1,5 +1,9 @@
+[home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
-[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+<div align="right">
+  <a href="issuetwo.md">back to ISSUE TWO</a>
+</div>
+
 
 ## Q. Let’s talk a bit more about that decision to shift away from organic materials.  
   

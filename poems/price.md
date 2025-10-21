@@ -48,7 +48,7 @@ They call her my adopted daughter, and the term is useful enough.<br>
 <br>
 <br>
 
-*Transformed*
+*Transformed* <br>
 <br>
 I will marry the girl, I will be a man.<br>
 <br>

@@ -7,8 +7,8 @@
 
 *Winter*
 <br>
-It’s the season the families move on from us.
-There are no caribou here in winter.
+It’s the season the families move on from us. <br>
+There are no caribou here in winter. <br>
 They leave us, an old woman and a young woman, <br>
 knowing there is little to live on this far from the world.<br>
 <br>

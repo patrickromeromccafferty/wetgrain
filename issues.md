@@ -1,5 +1,9 @@
 [home](index.md) | [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+  
 
+
+
+      
 <p align="center">
   <a href="issuesix.html">
     <img src="pictures/wg6icon.png" alt="Issue Six" width="200"/>

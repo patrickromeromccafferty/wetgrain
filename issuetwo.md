@@ -1,8 +1,8 @@
-<title> Issue Two, Summer 2021, co-edited with Christian Lemay </title> 
+## Issue Two, Summer 2021, co-edited with Christian Lemay 
 
-<title> [Editorial](editorial2.md) </title> 
+[Editorial](editorial2.md)
 
-<body>'Green Eyes' **River Ellen MacAskill** / 'Angle Shades in Winter' **Michael W. Thomas** / '마니또 (Manitto)', '색깔 많은 메아리 (colourful echo)' **Natalie Chunmin Fong** /    
+'Green Eyes' **River Ellen MacAskill** / 'Angle Shades in Winter' **Michael W. Thomas** / '마니또 (Manitto)', '색깔 많은 메아리 (colourful echo)' **Natalie Chunmin Fong** /    
 'St Inan', 'Island Storm' **Liam Welsh** / 'Say', 'Wishlist', 'Ajar', 'Break' **Nasim Luczaj** / 'two paths' **Alec Finlay** / 'Birch Wintering' **Robin Leiper** /  
 'The Pentcaitland Hoopoe' **Stella Hervey Birrell** / 'Dummler’s', 'Back to School', 'Café de Trollekelder' **Richie McCaffery** / 'Muse' **Caroline Maldonaldo** /  
 'Blindsided' **Davinia Hamilton** / 'Vanishing Upon Vanishing' **Arthur Allen** / ‘I knew it was you stealing fat balls’, 'The Moose Hunt, that', 'words' **Josh Smyth** /   
@@ -15,7 +15,5 @@ Angel' **Alice Lannon** / 'After School, December' **Morag Smith** / 'Wargaming'
 
 <p align="center">
 ​ <img src="pictures/wg2bk.png" alt="Issue Four" width="800"/>
-
-
 
 Original artwork by Andreas Christodoulidis

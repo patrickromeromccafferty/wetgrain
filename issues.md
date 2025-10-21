@@ -23,7 +23,7 @@
   <a href="issuetwo.html">
     <img src="pictures/wg2icon.png" alt="Issue Five" width="300"/>
   </a>
-  <a href="issues/issueone.html">
+  <a href="issueone.html">
     <img src="pictures/wg1icon.png" alt="Issue Four" width="300"/>
   </a>
 </p>

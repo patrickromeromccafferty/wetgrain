@@ -24,8 +24,8 @@ Sometimes, like Mike Farren’s whalebone in ‘The whalebone, dreaming,’ they
 so that the mythical, the climatic, the imaginary all come buffeting through on ‘the salt-roughened <br>
 towel of the wind.’ <br>
 <br>
-It’s this type of graininess, an organic, wilful agitation of experience that defines these poems <br>
-in the fankle of poetry worth thinking about: they testify to poetry’s ability to incite, provoke, 
-and encourage. <br>
+It’s this type of graininess, an organic, wilful agitation of experience that defines these <br>
+poems in the fankle of poetry worth thinking about: they testify to poetry’s ability to 
+incite, provoke, and encourage. <br>
 <br>
 Patrick Romero McCafferty & Christian Lemay

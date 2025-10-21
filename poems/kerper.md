@@ -1,5 +1,7 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
+[back to ISSUE TWO](issuetwo.md)
+
 ## There Are Multiple Photos of Hermit Crabs with Doll Heads for Shells
 <br>
 I hold the world with gloves of Elmer’s glue. <br>

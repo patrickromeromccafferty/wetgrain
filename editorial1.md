@@ -4,7 +4,7 @@
   <a href="issueone.md">back to ISSUE ONE</a>
 </div>
 
-##Editorial <br>
+## Editorial <br>
 <br>
 If you held it in your paw would it reek of a steady curdling? Could you use it to score fresh vinyl <br>
 or would its blade seek out and accentuate the old blunted grooves? Is it slick with linseed oil? <br>

@@ -25,7 +25,7 @@ so that the mythical, the climatic, the imaginary all come buffeting through on 
 towel of the wind.’ <br>
 <br>
 It’s this type of graininess, an organic, wilful agitation of experience that defines these <br>
-poems in the fankle of poetry worth thinking about: they testify to poetry’s ability to 
+poems in the fankle of poetry worth thinking about: they testify to poetry’s ability to <br>
 incite, provoke, and encourage. <br>
 <br>
 Patrick Romero McCafferty & Christian Lemay

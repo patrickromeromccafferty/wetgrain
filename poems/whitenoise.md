@@ -1,7 +1,7 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
 <div align="right">
-  <a href="issueone.md">back to ISSUE TWO</a>
+  <a href="issueone.html">back to ISSUE ONE</a>
 </div>
 
 ## White Noise <br>

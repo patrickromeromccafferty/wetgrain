@@ -1,5 +1,9 @@
 [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
 
+<div align="right">
+  <a href="issueone.html">back to ISSUE ONE</a>
+</div>
+
 ## Daylighting
 
 She has bad dreams when she moves  

@@ -1,4 +1,8 @@
+[home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
+<div align="right">
+  <a href="issuetwo.html">back to ISSUE TWO</a>
+</div>
 
 ## The Old Woman Who Changed Herself into a Man
 ### *from 'The Owner of the Sea: Three Inuit Stories Retold'*

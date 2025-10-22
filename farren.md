@@ -6,7 +6,9 @@
 
 ## The whalebone, dreaming 
 <br>
-*Skiba Geo, Birsay, Orkney* <br>
+
+*Skiba Geo, Birsay, Orkney* 
+<br>
 <br>
 You dream of sitting on the low cliff-top <br>
 of the island, soaked by sea squalls, dried <br>

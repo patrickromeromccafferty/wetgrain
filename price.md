@@ -9,7 +9,7 @@
 <br>
 <br>
 
-*Winter*
+*Winter* <br>
 <br>
 It’s the season the families move on from us. <br>
 There are no caribou here in winter. <br>
@@ -19,7 +19,6 @@ knowing there is little to live on this far from the world.<br>
 <br>
 
 *Stone house* <br>
-<br>
 <br>
 Ours is a stone house so perhaps the first people made it. <br>
 <br>

@@ -1,7 +1,7 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
 <div align="right">
-  <a href="issuetwo.md">back to ISSUE TWO</a>
+  <a href="issuetwo.html">back to ISSUE TWO</a>
 </div>
 
 

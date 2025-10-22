@@ -1,3 +1,8 @@
+[home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
+
+<div align="right">
+  <a href="issueone.md">back to ISSUE ONE</a>
+</div>
 
 ## Velour Legume Serenade <br>
 <br>
@@ -30,48 +35,66 @@ although i did once <br>
 internalise her brother <br>
 Gary he was nice <br>
 he didn’t exist <br>
-you knew that already
-you were just playing along do legumes have dimples?
-Maybe we need a retractable spike to avoid getting too comfortable in the rut
-it would be ace if the material was velour a velour legume when I said get out of here
-it was a joke
-I didn’t mean it
-behind me + legume
-the walls suddenly
-open little trapdoors and
-six tongues come out
-flapping to the tune of
-“Don’t leave
-I didn’t mean it
-The show is about to begin”
-I would like a jacket
-made out of the skins
-of kiwi fruits
-but it seems cruel
-maybe a vest?
-if I work on my abs
-hi Norma
-didn’t expect to see you here
-say hi to Gary for me
-I have this gift for the serenade
-where I can read in front of an audience without a book in my hands
-I got taught it by a spoken word
-artist
-love you all
-it’s important here
-for this poem
-because the book
-or the piece of paper would get in the way
-of me saying
-what I want to say
-which is
-oh hoist me up
-hedonist engineers
-of yore
-whisk me away
-whisk me back up
-hoist & whisk
-in one motion if you can in the dimple of my legume covered
-in velour
-sweeties twist your hips and hoist and whisk that’s it that’s the motion darlings darlings darlings whisk & hoist me away on my velour legume
-I love you
+you knew that already <br>
+you were just playing along <br>
+do legumes have dimples? <br>
+Maybe we need a retractable <br>
+spike to avoid getting too <br>
+comfortable in the rut <br>
+it would be ace if the material <br>
+was velour a velour legume <br>
+when I said get out of here <br>
+it was a joke <br>
+I didn’t mean it <br>
+behind me + legume <br>
+the walls suddenly <br>
+open little trapdoors and <br>
+six tongues come out <br>
+flapping to the tune of <br>
+“Don’t leave <br>
+I didn’t mean it <br>
+The show is about to begin” <br>
+I would like a jacket <br>
+made out of the skins <br>
+of kiwi fruits <br>
+but it seems cruel   <br>
+maybe a vest?  <br>
+if I work on my abs  <br>
+hi Norma  <br>
+didn’t expect to see you here  <br>
+say hi to Gary for me  <br>
+I have this gift for the serenade  <br>
+where I can read in front of an audience  <br> 
+without a book in my hands  <br>
+I got taught it by a spoken word  <br>
+artist  <br>
+love you all  <br>
+it’s important here  <br>
+for this poem  <br>
+because the book  <br>
+or the piece of paper  <br>
+would get in the way  <br>
+of me saying  <br>
+what I want to say  <br>
+which is  <br>
+oh hoist me up  <br>
+hedonist engineers  <br>
+of yore  <br>
+whisk me away  <br>
+whisk me back up  <br>
+hoist & whisk  <br>
+in one motion if you can  <br>
+in the dimple of my   <br>
+legume covered  <br>
+in velour  <br>
+sweeties twist your hips  <br>
+and hoist and whisk  <br>
+that’s it that’s the motion  <br>
+darlings darlings darlings  <br>
+whisk & hoist me away  <br>
+on my velour legume  <br>
+I love you <br>
+ <br>
+  <br>
+
+  *Colin Herd*

@@ -1,4 +1,4 @@
-[home](index.md) | [about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)
+[home](index.md) | [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submit](submit.md)
 
 ### Issue Three, Summer 2022, guest-edited by Nasim Luczaj
 

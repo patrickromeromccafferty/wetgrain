@@ -4,7 +4,7 @@
   <a href="issuefour.html">back to ISSUE FOUR</a>
 </div>
 
-## Reader, I Married Him
+## Reader, I married him
 <br>
 *A golden shovel after the song ‘Midnight Train to Georgia’ by Gladys Knight & The Pips* <br>
 <br>

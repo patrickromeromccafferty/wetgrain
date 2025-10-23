@@ -13,12 +13,12 @@ Each issue, selected poets are invited to contribute a short piece of commentary
 The magazine was founded by Christian Lemay & Patrick Romero McCafferty.
 
 <p align="center">
-  <img src="pictures/about.jpeg" alt="a" width="800">
+  <img src="pictures/about.jpeg" alt="a" width="600">
 </p>
 
 
 <p align="right">
-  <img src="cslogo.png" alt="a" width="100">
+  <img src="cslogo.png" alt="a" width="200">
 </p>
 
 

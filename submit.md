@@ -1,4 +1,4 @@
-[home](index.md) | [issues](issues.md) | (archive.md) | [shop](shop.md)  |  [about](about.md)
+[home](index.md) | [issues](issues.md) | [shop](shop.md)  |  [about](about.md)
 
 # submissions
 

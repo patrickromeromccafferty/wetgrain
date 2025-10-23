@@ -4,12 +4,12 @@
 
 <br>
 
-[Guest Editor's Note](prose/frontmatter.md) <br>
-[Editorial](prose/editorial4.md)
+[Guest Editor's Note](frontmatter.md) <br>
+[Editorial](editorial4.md) <br>
 
-Madeleine Lamm / 'Light Revisions' **Patrick James Errington** / 'Watermelon' 'Reader, I married him' **Isabelle Baafi** / Caleb Leow / Kathleen Heil / Lutz Seiler (trans. Stefan Tobler) / Heidi Williamson / Sara Larsen / Rush Wick / Jed Munson / 'Bow' **Gabriel Levine Brislin** / Paul Stephenson / Rob A, Mackenzie / Agata Maslowska / Elzbieta Wojcek-Leese / Alia Zapparova / Nur Turkmani / Laura Theis / Laura Varnam / ['Before the War' **Cristina Rivera Garza**](poems/war.md) / Laura Davis / Leah Umansky / Tom Branfoot / S.J. Delaney / Imogen Reid / Rise / Roshni Gallagher / Sneha Subramanian Kanta / Lubi Barre / Samuel Tongue / 'Liminal' **Jamie Cameron** / 'Gull' **Maggie Wang**
+'Open window, liguria' **Madeleine Lamm** / 'Light Revisions' **Patrick James Errington** / 'Watermelon' 'Reader, I married him' **Isabelle Baafi** / Caleb Leow / Kathleen Heil / 'pitch & glint', 'gravity', 'Potemkin's village' **Lutz Seiler (trans. Stefan Tobler)** / 'There once was a sister-lion' **Heidi Williamson** / 'The Garden At Prospect Cottage, 1989' **Sara Larsen** / 'On visiting a gallery in snowfall' **Rush Wick** / '7,8' **Jed Munson** / 'Bow' **Gabriel Levine Brislin** / 'Nurture' **Paul Stephenson** / 'Route' **Rob A, Mackenzie** / 'A Lack of Knowledge' **Agata Maslowska** / from 'With Breath' **Alia Zapparova** / 'A Warda Song Is Long Enough' **Nur Turkmani** / 'a lazy clairvoyant predicts her own future with her phone’s autocomplete' **Laura Theis** / 'Meresong' **Laura Varnam** / ['Before the War' **Cristina Rivera Garza**](war.md) / 'Strand' **Laura Davis** / 'Green Lights' **Leah Umansky** / 'demesne' **Tom Branfoot** / 'Serving' **S.J. Delaney** / 'Print on Wove Paper' **Imogen Reid** / 'Rose Water' **Rise** / 'Effigy at dusk' **Roshni Gallagher** / 'What Survives Us' **Sneha Subramanian Kanta** / 'Single' **Lubi Barre** / 'Fragments from *A treatise on the influence on the souls of animals*' **Samuel Tongue** / 'Liminal' **Jamie Cameron** / 'Gull' **Maggie Wang** / 'indigitamenta' **Kathleen Heil** / 'The Hoarders' **Caleb Leow** /
 
 <p align="center">
-​ <img src="wg4bk.png" alt="Issue Four" width="1000"/>
+​ <img src="wg4bk.png" alt="Issue Four" width="800"/>
 ​
 Original artwork by Elżbieta Wójcik-Leese

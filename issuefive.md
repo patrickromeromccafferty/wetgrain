@@ -10,6 +10,9 @@ Editorial
 
 [Unknotting the String: An Interview with Juana Adcock](prose/interview.md)
 
+
+
+
 Original artwork by Julia Utreras
 
-![Issue Five](wetgrainfive.jpeg)
+

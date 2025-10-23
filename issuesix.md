@@ -3,4 +3,4 @@
 ### Issue Six, Summer 2023, guest-edited by Charles Lang, Eloise Birtwhistle, & Nasim Luczaj
 
 <p align="center">
-​ <img src="wg4bk.png" alt="Issue Four" width="800"/>
+​ <img src="wg6bk.jpeg" alt="Issue Six" width="400"/>

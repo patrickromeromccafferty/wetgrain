@@ -11,7 +11,8 @@ Editorial
 [Unknotting the String: An Interview with Juana Adcock](prose/interview.md)
 
 
-
+<p align="center">
+​ <img src="wg5bk.png" alt="Issue 5" width="800"/>
 
 Original artwork by Julia Utreras
 

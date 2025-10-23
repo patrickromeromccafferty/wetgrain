@@ -8,7 +8,7 @@
   <a href="issuesix.html">
     <img src="pictures/wg6icon.png" alt="Issue Six" width="200"/>
   </a>
-  <a href="issues/issuefive.html">
+  <a href="issuefive.html">
     <img src="pictures/wg5icon.png" alt="Issue Five" width="300"/>
   </a>
   <a href="issuefour.html">

@@ -1,3 +1,5 @@
+[home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
+
 ## Issue Five, Summer 2024, guest-edited by Leo Boix & Nat Teitler
 
 Editorial

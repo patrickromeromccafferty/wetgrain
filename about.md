@@ -17,7 +17,7 @@ The magazine was founded by Christian Lemay & Patrick Romero McCafferty.
 </p>
 
 
-<p align="rightr">
+<p align="right">
   <img src="cslogo.png" alt="a" width="100">
 </p>
 

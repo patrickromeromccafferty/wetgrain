@@ -1,5 +1,9 @@
 [home](index.md) | [about](about.md) | [shop](shop.md) | [submissions](submit.md)
 
+<div align="right">
+  <a href="issuetwo.html">back to ISSUE TWO</a>
+</div>
+
 ## Editorial
 
 Open though written in confinement, conversing though written in isolation,     

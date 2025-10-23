@@ -8,7 +8,7 @@
 <br>
 <br>
 
-compare with domai`n      m`eanynge <br>
+compare with domain&nbsp;&nbsp;&nbsp;&nbsp;meanynge <br>
 this land is not yrs <br>
 <br>
 there are implications to exclusion <br>
@@ -17,10 +17,10 @@ take this field <br>
 skin flappynge <br>
 from my gaol shredded <br>
 <br>
-by barbed wir`e     d`urynge <br>
+by barbed wire&nbsp;&nbsp;&nbsp;&nbsp;durynge <br>
 recreational activity <br>
 <br>
-take this duch`y    t`hynges more covert <br>
+take this duchy&nbsp;&nbsp;&nbsp;&nbsp;thynges more covert <br>
 than flesh <br>
 <br>
 generatynge revenue for kyng <br>

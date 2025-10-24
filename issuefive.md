@@ -2,7 +2,7 @@
 
 ## Issue Five, Summer 2024, guest-edited by Leo Boix & Nat Teitler
 
-Editorial
+[Editorial](editorial5.d)
 
 #### Poetry
 

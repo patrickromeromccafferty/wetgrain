@@ -4,6 +4,9 @@
   <a href="issuethree.html">back to ISSUE THREE</a>
 </div>
 
+<br>
+<br>
+
 Our submission window having closed in late January, these poems 
 surface in a tenser, more acutely violent world than the one in which 
 they were conceived and written. They now read presciently, as poetry 

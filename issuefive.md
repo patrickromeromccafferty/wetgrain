@@ -10,7 +10,7 @@ Editorial
 
 #### Prose
 
-'Translation, Literary Translation and Self-translation' Isabel del Rio / 'Memoria, Justicia, y Verdad: (Self)Translation as Reconciliation' Nathalia Samhil Gonzalez Gutierrez / 'How do we work with and against memory?' Patrizia Longhitano / 'Ni de aquí, Ni de allá: On Writing into the Between' Andres N Ordorica / 'Blood and Soil' Jose Buera / 'On Land' Sim Perreira-Madder / 'Land, Literature, Language' Adriana Diaz Enciso / [Unknotting the String: An Interview with Juana Adcock](prose/interview.md)
+'Translation, Literary Translation and Self-translation' **Isabel del Rio** / 'Memoria, Justicia, y Verdad: (Self)Translation as Reconciliation' **Nathalia Samhil Gonzalez Gutierrez** / 'How do we work with and against memory?' **Patrizia Longhitano** / 'Ni de aquí, Ni de allá: On Writing into the Between' **Andres N Ordorica** / 'Blood and Soil' **Jose Buera** / 'On Land' **Sim Perreira-Madder** / 'Land, Literature, Language' **Adriana Diaz Enciso** / [Unknotting the String: An Interview with Juana Adcock](prose/interview.md)
 
 
 <p align="center">

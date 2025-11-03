@@ -1,4 +1,4 @@
-[about](about.md)  |  [shop](shop.md)  |  [issues](issues.md)  |  [submissions](submit.md)
+[latest](latest.md) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)
 
 <p align="center">
   <img src="pictures/issuesixhomepage.jpeg" alt="bathers" width="800">

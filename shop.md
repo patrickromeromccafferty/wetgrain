@@ -1,4 +1,4 @@
-[home](index.md) | [about](about.md) | [archive](archive.md)  |  [submissions](submit.md)
+[home](index.md) | [issues](issue.md)  |  [about](about.md)  |  [submissions](submit.md)
 # shop
 
 Our shop operates on a good faith basis. To purchase copies please email diana [at] wetgrainpoetry.com with the following details:

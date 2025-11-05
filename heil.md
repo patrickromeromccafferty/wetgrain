@@ -8,5 +8,9 @@
 <br>
 <br>
 <p align="left">
-  <img src="heilpoem.png" alt="Heil Poem" width="400">
+  <img src="heilpoem.png" alt="Heil Poem" width="500">
 </p>
+<br>
+<br>
+
+*Kathleen Heil*

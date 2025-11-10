@@ -3,7 +3,7 @@
 <br> 
 <br> 
 
-# ISSUE three • ASummer 2022
+# ISSUE THREE • ASummer 2022
 ## *guest-edited by Nasim Luczaj*
 <br> 
 <br> 

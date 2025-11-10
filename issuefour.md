@@ -1,8 +1,11 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
-### Issue Four, Summer 2023, guest-edited by Sylee Gore
-
-<br>
+<br> 
+<br> 
+# ISSUE FOUR • Summer 2023
+## *guest-edited by Sylee Gore*
+<br> 
+<br> 
 
 [Guest Editor's Note](frontmatter.md) <br>
 [Editorial](editorial4.md) <br>

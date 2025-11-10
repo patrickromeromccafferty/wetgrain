@@ -3,7 +3,7 @@
 <br> 
 <br> 
 
-# ISSUE one • AUTUMN 2020
+# ISSUE ONE • AUTUMN 2020
 ## *co-edited with Christian Lemay*
 <br> 
 <br> 

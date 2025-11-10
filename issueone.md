@@ -1,6 +1,12 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 
-### Issue One, Autumn 2020, co-edited with Christian Lemay 
+<br> 
+<br> 
+
+# ISSUE one • AUTUMN 2020
+## *co-edited with Christian Lemay*
+<br> 
+<br> 
 
 [Editorial](editorial1.md)
 

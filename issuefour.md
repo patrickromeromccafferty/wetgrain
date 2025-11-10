@@ -2,6 +2,7 @@
 
 <br> 
 <br> 
+
 # ISSUE FOUR • Summer 2023
 ## *guest-edited by Sylee Gore*
 <br> 

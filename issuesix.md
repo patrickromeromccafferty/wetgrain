@@ -15,7 +15,7 @@
 <br>
 #### Prose 
 <br> <br>
-A Living Archive: an interview with Esraa Husain on centring underrepresented voices in Scottish poetry / Caring for the Word: an interview with Hubert Matiúwàa / [The Vocal Presence: an interview with Ellen Renton and Colin Bramwell on process, performance and collaboration](interviewrenton.md) / [Review: Symmetric of Bone, Troy Cabida and (In)Habit, Hetty Cliss - Clara-Læïla Laudette](clissmd) /
+A Living Archive: an interview with Esraa Husain on centring underrepresented voices in Scottish poetry / Caring for the Word: an interview with Hubert Matiúwàa / [The Vocal Presence: an interview with Ellen Renton and Colin Bramwell on process, performance and collaboration](interviewrenton.md) / [Review: Symmetric of Bone, Troy Cabida and (In)Habit, Hetty Cliss - Clara-Læïla Laudette](cliss.md) /
 
 
 

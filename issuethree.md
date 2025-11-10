@@ -1,6 +1,12 @@
 [home](index.md) | [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submit](submit.md)
 
-### Issue Three, Summer 2022, guest-edited by Nasim Luczaj
+<br> 
+<br> 
+
+# ISSUE three • ASummer 2022
+## *guest-edited by Nasim Luczaj*
+<br> 
+<br> 
 
 [Editorial](editorial3.md) <br>
 <br>

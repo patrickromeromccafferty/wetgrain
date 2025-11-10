@@ -1,5 +1,11 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
-## Issue Two, Summer 2021, co-edited with Christian Lemay 
+<br> 
+<br> 
+
+# ISSUE TWO • Summer 2021
+## *Co-edited with Christian Lemay*
+<br> 
+<br> 
 
 [Editorial](editorial2.md)
 

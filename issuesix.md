@@ -1,5 +1,6 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
-
+<br> 
+<br> 
 ### Issue Six, Summer 2023, guest-edited by Charles Lang, Eloise Birtwhistle, & Nasim Luczaj
 <br> 
 <br> 

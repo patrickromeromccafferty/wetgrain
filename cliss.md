@@ -72,7 +72,7 @@ speaker’s ﬁnely-curated possessions. Then comes reincarnation—a teasing, s
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(‘On Normativity’) <br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** <br>
 <br>
 With the premonitory lines, “I decided / the view from our would-be bedroom / was worth the ﬂood risk”, Hetty Cliss’s debut pamphlet *(In)Habit* ushers us into a homespace that 
 courts disaster. Danger pulses from ordinary details: a locked-in housecat, reusable shopping bags, a ﬁgure asleep on the sofa. The opening poem, ‘Swing & Miss’, continuously defers 
@@ -86,9 +86,9 @@ inch by inch, until we realise what lexical and psychological territory we're in
 “[muddies] / whose impulses are right, whose wrong.” The poem complicates our understanding of the internalised misogyny which usually allows villains to garner sympathy—staging a 
 ﬁnal, intimate image of femicide. Had her partner put a gun to her head, the speaker admits <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’d have likely joined 
-&nbsp;&nbsp;&nbsp;&nbsp;the chorus, the imagined audience 
-&nbsp;&nbsp;&nbsp;&nbsp;as they whisper: let the bitch have it. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’d have likely joined <br>
+&nbsp;&nbsp;&nbsp;&nbsp;the chorus, the imagined audience <br>
+&nbsp;&nbsp;&nbsp;&nbsp;as they whisper: *let the bitch have it.* <br>
 <br>
 Here, the speaker supplies alternative phrasing—“chorus” and “audience” are, arguably, doing the same job. But this overcompensation also highlights a consequence of being 
 gaslit: no longer believing your word is enough. The repetition helps to build that sense of constantly being scrutinised—and judged—by multitudes. By the pamphlet’s end, the 
@@ -125,12 +125,12 @@ state—that “one foot in front of the other” mentality triggered by surviva
 Cliss’s strength lies in her noticing and how she harnesses this attention to show rather than tell. Frequently excellent lineation deepens and complicates meaning. Take the penultimate poem, which weaves a thing with its negation—the speaker claiming not to notice something she describes. ‘Wedding Season’ slips 
 from couplets to a ﬁnal single line, mimicking the pamphlet’s real-life arc (partnered-to-single): <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trouble is I never stop <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trouble is I never stop <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to notice how hotel beds are often <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;two single mattresses pushed close <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and held together by a pressed sheet. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and held together by a pressed sheet. <br>
 <br>
 The pamphlet’s ﬁnal poem ‘Song for Leaving’, an unrhymed Italian-style sonnet, is the counterpart to the opening ‘Song for the Love We Learned’. Structural symmetry aside, its appeal is obvious: punchy imperatives (“make me / wilful.”); a forward-looking directness (“I’ll bask”); poppy references to Hot Girl Summer (“comfort series on repeat”, “bodysuits and brunch”, “hot gossip”, “ﬂuorescent dresses”). Energetic, determined, fun, 
 it’s a manifesto for the speaker’s future—conscious of what she’s been through, but newly unfettered. <br>

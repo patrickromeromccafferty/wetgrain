@@ -16,8 +16,8 @@ Its speaker is alert to the political and affective forces at play when we expre
 prejudice, projection and hope all funnel. Cabida’s work centres the porousness between bodies and objects; in this pamphlet, 
 he zeroes in on the transformative, subversive potential of adornment. Peretti’s designs offer the poet both curvature and armature. The title poem states: <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <br> The act of removing <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <br> is to assume a new role <br>
+&nbsp;&nbsp;&nbsp;&nbsp; The act of removing <br>
+&nbsp;&nbsp;&nbsp;&nbsp; is to assume a new role <br>
 <br>
 This is jewellery as disguise, as wishbone, as portal across bodies, time, socio-economics—a queer Filipino man, living in London in 2025, 
 conversing with Peretti, a twentieth-century Italian woman. Here is a sterling cuff whose removal means exposure, vulnerability. 

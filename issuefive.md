@@ -3,8 +3,9 @@
 <br> 
 # ISSUE FIVE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*SUMMER 2024*
 ## *guest-edited by Nat Teitler & Leo Boix*
-<br> 
-<br> 
+
+<p align="center">
+​ <img src="line5.png" alt="Issue Six" width="200"/>
 
 [Editorial](editorial5.d)
 
@@ -21,5 +22,8 @@
 ​ <img src="wg5bk.png" alt="Issue 5" width="800"/>
 
 Original artwork by Julia Utreras
+
+<p align="center">
+​ <img src="line5.png" alt="Issue Six" width="200"/>
 
 

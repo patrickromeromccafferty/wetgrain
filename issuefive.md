@@ -5,8 +5,6 @@
 
 ## *guest-edited by Nat Teitler & Leo Boix*
 
-<p align="center">
-​ <img src="line5.png" alt="Issue Six" width="=400"/>
 
 <br>
 

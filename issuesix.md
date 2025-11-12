@@ -3,11 +3,9 @@
 <br> 
 # ISSUE SIX  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *AUTUMN 2025*
 ## *guest-edited by Charles Lang, Eloise Birtwhistle, & Nasim Luczaj*
-<br> 
-<br> 
 
 <p align="center">
-​ <img src="line6.png" alt="Issue Six" width="200"/>
+​ <img src="line6.png" alt="Issue Six" width="400"/>
 
 
 [Editorial](editorial6.md)
@@ -29,4 +27,4 @@ A Living Archive: an interview with Esraa Husain on centring underrepresented vo
 ​ <img src="wg6bk.jpeg" alt="Issue Six" width="400"/>
 
 <p align="center">
-​ <img src="line6.png" alt="Issue Six" width="200"/>
+​ <img src="line6.png" alt="Issue Six" width="400"/>

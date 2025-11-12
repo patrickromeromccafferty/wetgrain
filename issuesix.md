@@ -7,8 +7,11 @@
 <p align="center">
 ​ <img src="line6.png" alt="Issue Six" width="400"/>
 
+<br> 
 
 [Editorial](editorial6.md)
+
+<br>
 
 #### Poetry
 <br> 

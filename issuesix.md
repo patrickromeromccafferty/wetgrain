@@ -6,6 +6,8 @@
 
 <p align="center">
 ​ <img src="line6.png" alt="Issue Six" width="400"/>
+  
+<p/>
 
 <br> 
 

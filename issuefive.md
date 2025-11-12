@@ -5,7 +5,7 @@
 ## *guest-edited by Nat Teitler & Leo Boix*
 
 <p align="center">
-​ <img src="line5.png" alt="Issue Six" width="200"/>
+​ <img src="line5.png" alt="Issue Six" width="=400"/>
 
 [Editorial](editorial5.d)
 
@@ -24,6 +24,6 @@
 Original artwork by Julia Utreras
 
 <p align="center">
-​ <img src="line5.png" alt="Issue Six" width="200"/>
+​ <img src="line5.png" alt="Issue Six" width="400"/>
 
 

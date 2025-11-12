@@ -6,6 +6,10 @@
 <br> 
 <br> 
 
+<p align="center">
+​ <img src="line6.png" alt="Issue Six" width="200"/>
+
+
 [Editorial](editorial6.md)
 
 #### Poetry
@@ -23,3 +27,6 @@ A Living Archive: an interview with Esraa Husain on centring underrepresented vo
 
 <p align="center">
 ​ <img src="wg6bk.jpeg" alt="Issue Six" width="400"/>
+
+<p align="center">
+​ <img src="line6.png" alt="Issue Six" width="200"/>

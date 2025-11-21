@@ -17,10 +17,9 @@
 
 ## Pory miejsc (IV)
 <br>
-<br>
 
 <p align="left">
-  <img src="lebda1.png" alt="Translation" width="500">
+  <img src="lebda1.png" alt="Translation" width="550">
 </p>
 
 <br>

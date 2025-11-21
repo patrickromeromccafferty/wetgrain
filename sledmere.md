@@ -5,6 +5,7 @@
 </div>
 
 ## Whirl Piece <br>
+*for Lindsay* <br>
 <br>
 Pouring our eyes into the barf device <br>
 Stars are reciting their wanton errors <br>

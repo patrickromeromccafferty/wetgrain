@@ -12,7 +12,7 @@ they hanker towards the buddleia, blundering along <br>
 with such delicate abandon, as if that bush were <br>
 the last place on earth you’d expect them to be going  <br>
 <br>
-till suddenly they’re there; each folding of intention
+till suddenly they’re there; each folding of intention <br>
 hidden behind a coy, left-angled/right-brained trigonometry. <br>
 <br>
 <br>

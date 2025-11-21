@@ -5,7 +5,6 @@
 ## *Guest-edited by Charles Lang, Eloise Birtwhistle, & Nasim Luczaj*
 
 <br>
-<br> 
 
 ### [Editorial](editorial6.md)
 

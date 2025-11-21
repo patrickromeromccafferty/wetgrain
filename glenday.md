@@ -27,5 +27,6 @@ spilled across their wings might mean, in this world <br>
 <br>
 where signs and symbols stand for everything: <br>
 the black, the white, the amber and the red. <br>
+<br>
 
 *John Glenday*

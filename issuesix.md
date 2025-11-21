@@ -6,7 +6,7 @@
 
 <br>
 
-[Editorial](editorial6.md)
+### [Editorial](editorial6.md)
 
 <br>
 

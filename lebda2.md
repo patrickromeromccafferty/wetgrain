@@ -7,7 +7,7 @@
 ## Seasonal Plots (V) <br>
 <br>
 <p align="left">
-  <img src="lebda2.png" alt=" Poem" width="500">
+  <img src="lebda3.png" alt=" Poem" width="500">
 </p>
 
 <br>
@@ -18,7 +18,7 @@
 <br>
 
 <p align="left">
-  <img src="lebda1.png" alt="Translation" width="550">
+  <img src="lebda4.png" alt="Translation" width="400">
 </p>
 
 <br>

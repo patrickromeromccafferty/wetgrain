@@ -18,7 +18,7 @@
 <br>
 
 <p align="left">
-  <img src="lebda4.png" alt="Translation" width="400">
+  <img src="lebda4.png" alt="Translation" width="500">
 </p>
 
 <br>

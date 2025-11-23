@@ -4,7 +4,7 @@
   <a href="issuesix.html">back to ISSUE SIX</a>
 </div>
 
-## Nocturne as Running White Deer <br>>
+## Nocturne as Running White Deer <br>
 <br>
 The deer appear, frozen at the edge <br>
 of the forest, or the frame, of mind <br>

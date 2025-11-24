@@ -40,5 +40,14 @@ Viridian bath light by the same dream <br>
 Goddessing its way to our boyfriends <br>
 Coming in waves until we sharpen <br>
 <br>
-
+A bowl of lysergic augury, now <br>
+Supped milky electrolytes <br>
+<br>
+Oscillating loneliness of total <br>
+Language in everything <br>
+<br>
+Made plenitude of safety <br>
+Left our skins by the kitchen <br>
+<br>
+<br>
 *Maria Sledmere*

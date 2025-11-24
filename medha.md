@@ -10,7 +10,7 @@
 *for the mothers at the Mexican border*
 
 <p align="left">
-  <img src="medha.png" alt=" Poem" width="500">
+  <img src="medha.png" alt=" Poem" width="600">
 </p>
 
 *Medha Singh*

@@ -5,7 +5,7 @@
 </div>
 
 ## The View from the Cul de Sac <br>
-*after SP* <br>
+*after SP* <br><br>
 I think of someone *gloved and covered,* <br>
 coming to take me away. Some kind of wildness <br>
 thrums beneath my skin. Veins that pulse like <br>

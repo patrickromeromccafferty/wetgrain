@@ -24,7 +24,7 @@ bokeh on an auto ride. In the beginning I was still a ghost laminated <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to form. Mechanist of renewals, my theses reformed. In bed reading <br>
 <br>
-*Hold your gun arm steady to keep the color of the flower* <br>
+*Hold your gun arm steady to keep the color of the flower* *<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on the framed print of a print. In a dim room. On a slow screen. <br>
 <br>
@@ -46,8 +46,8 @@ Like if, only with you, I want to wake having forgotten how to speak. <br>
 <br>
 <br>
 <br>
-1Poster attributed to Tr. Tanh (1969), part of A Revolutionary Spirit: Vietnamese Propoganda Art <br>
-from the Dogma Collection at the Vietnam Fine Arts Museum, Hanoi <br>
+* *Poster attributed to Tr. Tanh (1969), part of A Revolutionary Spirit: Vietnamese Propoganda Art <br>
+from the Dogma Collection at the Vietnam Fine Arts Museum, Hanoi* <br>
 <br>
 <br>
 

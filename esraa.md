@@ -10,8 +10,7 @@ Eloise Birtwhistle: <br>
 <br>
 Hello Esraa, great to see you. Thank you for agreeing to this conversation and to being part of the next issue of Wet Grain. Do you want to introduce yourself?
 <br>
-<br>
-<br><br> Esraa Husain <br><br> My name is Esraa Husain, I use any and all pronouns, and I’m a creative writ- er, community organiser and a researcher. I write in both Arabic and English, fiction and non-fiction. I started in 2013 and, most recently, one of my pieces was accepted in SINK, which is a literary magazine for migrant writing.
+<br> Esraa Husain <br><br> My name is Esraa Husain, I use any and all pronouns, and I’m a creative writ- er, community organiser and a researcher. I write in both Arabic and English, fiction and non-fiction. I started in 2013 and, most recently, one of my pieces was accepted in SINK, which is a literary magazine for migrant writing.
 <br><br>
 EB: <br><br>
 That’s exciting, I look forward to reading! What do you have in SINK?

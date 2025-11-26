@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.instagram.com/wetgrainpoetry/">
+  <a href="https://www.instagram.com/wetgrainpoetry/">
     <img src="insta.png" alt="Issue Six" width="50"/>
   </a>
 </p>

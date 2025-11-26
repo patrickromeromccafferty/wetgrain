@@ -24,7 +24,7 @@ If you wish to support the magazine, you might like to consider taking out a sub
 
 1. A copy the three issues due to be published in 2026 
 2. 300 words of feedback from an editor on a single poem
-3. A bi-monthly hand-folded rhisograph poster of new poetry and reflections designed by Typewronger Books.
+3. A bi-monthly hand-folded risograph poster of new poetry and reflections designed by Typewronger Books.
 4. A free space at one of our in-person workshops (Edinburgh, Glasgow, and London)
 
 You can request a subscription form by emailing diana [at] wetgrainpoetry.com 

@@ -4,9 +4,12 @@
   <img src="pictures/issuesixhomepage.jpeg" alt="bathers" width="800">
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://www.instagram.com/wetgrainpoetry/">
-    <img src="insta.png" alt="Issue Six" width="50"/>
+    <img src="insta.png" alt="Issue Six" width="10"/>
   </a>
 </p>
 

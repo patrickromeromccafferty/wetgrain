@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/wetgrainpoetry/">
-    <img src="insta.png" alt="Issue Six" width="10"/>
+    <img src="insta.png" alt="Issue Six" width="25"/>
   </a>
 </p>
 

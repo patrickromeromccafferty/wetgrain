@@ -16,7 +16,7 @@
   
 **'The Conductor', Yasmine Seale** <br>
 <br>
-Shadows pass from the realm of the bitter and the buzzing to the corporeal in Yasmine Seale’s ‘The Conductor’ – a text splintered with imagery. Seale’s language pauses at the edge of its own ‘fluent’ planes, various and ephem- eral in its silent figures, the incision of each line haunted by its predecessor. Poised between the ‘crime of passion’ and the arduous physicality of ‘horns into fury’, a fine needle of feeling runs through the lacework of Seale’s brevity. What moves the needle of affect? Who lies in the reach between semiotics and sleep? The reader is invited to try: to pierce through the surface tension of lace, to pin down the conductor, if one may.<br><br><br>
+Shadows pass from the realm of the bitter and the buzzing to the corporeal in Yasmine Seale’s ‘The Conductor’ – a text splintered with imagery. Seale’s language pauses at the edge of its own ‘fluent’ planes, various and ephemeral in its silent figures, the incision of each line haunted by its predecessor. Poised between the ‘crime of passion’ and the arduous physicality of ‘horns into fury’, a fine needle of feeling runs through the lacework of Seale’s brevity. What moves the needle of affect? Who lies in the reach between semiotics and sleep? The reader is invited to try: to pierce through the surface tension of lace, to pin down the conductor, if one may.<br><br><br>
 *Dipanjali Roy*
 <br>
 <br>
@@ -35,7 +35,7 @@ Last night I saw the strawberry full moon rise over Brace Cove and out to the oc
 
 **'Whirl Piece', Maria Sledmere** <br>
 <br>  
-When I first read ‘Whirl Piece’, I was listening to my ‘June’ playlist which had just been through Joshua Burnside’s Sycamore Queen and moved on to Beneath the Oaks by Dylan Gossett. So when I came soon after to Sledmere’s remembered ‘sweet bay magnolia, American sycamore and Valley oak’, I al- ready felt conspiratorially inducted. This layered kaleidoscope of synchronic- ity continued in lines filled with an exultant, tactile, sensory decadence; a cosmic star cast of tacos and sun peaches, Viridian bath light, brilliant Yuba granite, craquelure and supped milky electrolytes. This poem revels in the totality of ‘language in everything’, echoing for me Jeff Buckley’s non-advice to: ‘be awake enough to see where you are at any given time, and how that is beautiful, and has poetry inside’. Everything in this piece has poetry inside, outside, flaring at the seams. ‘What to hold as we are in pieces’ is the unasked question that will hold my attention for a long time to come.<br><br>
+When I first read ‘Whirl Piece’, I was listening to my ‘June’ playlist which had just been through Joshua Burnside’s Sycamore Queen and moved on to Beneath the Oaks by Dylan Gossett. So when I came soon after to Sledmere’s remembered ‘sweet bay magnolia, American sycamore and Valley oak’, I already felt conspiratorially inducted. This layered kaleidoscope of synchronicity continued in lines filled with an exultant, tactile, sensory decadence; a cosmic star cast of tacos and sun peaches, Viridian bath light, brilliant Yuba granite, craquelure and supped milky electrolytes. This poem revels in the totality of ‘language in everything’, echoing for me Jeff Buckley’s non-advice to: ‘be awake enough to see where you are at any given time, and how that is beautiful, and has poetry inside’. Everything in this piece has poetry inside, outside, flaring at the seams. ‘What to hold as we are in pieces’ is the unasked question that will hold my attention for a long time to come.<br><br>
 *Nidhi Zak/Aria Eipe*
 <br>
 <br>
@@ -50,7 +50,7 @@ In this poem, Crowder celebrates the beauty and power of the natural world with 
 
 **'The View from the Cul de Sac', Catherine Wilson Garry** <br><br>
 Cul de sacs get bad press – I like cul de sacs, but rarely for their views. Already a claustrophobic discomfiture is evoked, which builds throughout the poem. The phrase ‘coming to take me away’ makes me hear the song. This contrasts the ‘wildness/that thrums’, and ‘Veins that pulse like/a bee dance for honey.’ Twitching curtains return us to conventional territory, until the surreal es- cape into ‘crisp white bedsheets, time and thoughtlessness’ and the haunting and haunted imagery of the wrists and the night.
-The opened windows, the rain, the larvae brighten the landscape, solitary magpies notwithstanding. While density continues, horses bring possibility and expansion to masterfully navigated horizons.<br><br>
+<br><br> The opened windows, the rain, the larvae brighten the landscape, solitary magpies notwithstanding. While density continues, horses bring possibility and expansion to masterfully navigated horizons.<br><br>
 *Christie Williamson*
 <br>
 <br>
@@ -64,14 +64,14 @@ What a poem this is! In Virginia Woolf ‘s novel Orlando we are told that ‘Th
 <br>
 
 **'catch', Christie Williamson** <br><br>
-I love the music of this sonnet, its lower case vulnerability and measured thoughtfulness. I immediately wanted to hear it aloud. Dedicated to the po- et’s mother, it evokes a domestic space at once solid and precarious, makeshift and sure. The details are made extraordinary by the poet’s noticing and care in sound. As the title suggests, the poem captures a memory so beautifully, and holds it out to us now, preserved for the future: ‘a clean page tae scrieve a pure life on’.<br><br>
+I love the music of this sonnet, its lower case vulnerability and measured thoughtfulness. I immediately wanted to hear it aloud. Dedicated to the poet’s mother, it evokes a domestic space at once solid and precarious, makeshift and sure. The details are made extraordinary by the poet’s noticing and care in sound. As the title suggests, the poem captures a memory so beautifully, and holds it out to us now, preserved for the future: ‘a clean page tae scrieve a pure life on’.<br><br>
 *Heidi Williamson*
 <br>
 <br>
 <br>
 
 **'Inchkeith Hypothesis', Samuel Tongue** <br><br>
-Dense and teeming. To be alive is to writhe – for language, perhaps it is to rhyme. In Tongue’s poem, the rhymes ring together as one continual hum... The roar of the ocean, its many waves breaking in one unified thrum. A hymn that’s beauti- ful because it’s endless, startless, circular... Like the ‘hum inside rock and turf’, Tongue’s words nestle inside one another. The sentences are jostled, their parts clack together like bright wet pebbles... How the ‘slubbery bubble’ sets the stage for the ‘lugworm’, the ‘tongue’s guddle’, a ‘giggle’, something giddy, muddy, glowing, slow. The tides roll out, then the tides return.<br><br>
+Dense and teeming. To be alive is to writhe – for language, perhaps it is to rhyme. In Tongue’s poem, the rhymes ring together as one continual hum... The roar of the ocean, its many waves breaking in one unified thrum. A hymn that’s beautiful because it’s endless, startless, circular... Like the ‘hum inside rock and turf’, Tongue’s words nestle inside one another. The sentences are jostled, their parts clack together like bright wet pebbles... How the ‘slubbery bubble’ sets the stage for the ‘lugworm’, the ‘tongue’s guddle’, a ‘giggle’, something giddy, muddy, glowing, slow. The tides roll out, then the tides return.<br><br>
 *Dan Power*
 <br>
 <br>
@@ -85,7 +85,7 @@ Pay attention to the way Bringas uses the language of compromise to deliver a pa
 <br>
 
 **dogworld, Dan Power** <br><br>
-Strong visual imagery evokes the languors of a 21st century urbanised envi- ronment in which humans and dogs alike languish in torpid helplessness. In botanical contexts, dog (as in dog violet / dog rose) indicates worthlessness, lack of virtue or value – and this sense resonates with the ‘dog world’ so deftly encapsulated in the poem. By transposing the human and the canine con- dition, this poem’s metaphors imply big questions about world-making and interspecies relationships: which species is defining the world of which – and what kinds of intelligences are necessary for such a world to be inhabited and borne?<br><br>
+Strong visual imagery evokes the languors of a 21st century urbanised environment in which humans and dogs alike languish in torpid helplessness. In botanical contexts, dog (as in dog violet / dog rose) indicates worthlessness, lack of virtue or value – and this sense resonates with the ‘dog world’ so deftly encapsulated in the poem. By transposing the human and the canine condition, this poem’s metaphors imply big questions about world-making and interspecies relationships: which species is defining the world of which – and what kinds of intelligences are necessary for such a world to be inhabited and borne?<br><br>
 *Kim Crowder*
 <br>
 <br>

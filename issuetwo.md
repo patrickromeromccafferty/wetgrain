@@ -13,5 +13,7 @@
 
 <p align="center">
 ​ <img src="pictures/wg2bk.png" alt="Issue Four" width="500"/>
+</p>
 
+<br>
 Original artwork by Andreas Christodoulidis

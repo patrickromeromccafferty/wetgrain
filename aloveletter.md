@@ -4,7 +4,7 @@
 <br>
   
 <p align="left">
-  <img src="sim.png" alt=" Poem" width="500">
+  <img src="sim.png" alt=" Poem" width="600">
 </p>
 
 *Sim Pereira-Madder*

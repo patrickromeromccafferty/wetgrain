@@ -13,10 +13,10 @@ they were conceived and written. They now read presciently, as poetry
 will. Looking out onto their dangerous streets, we find violence in the 
 image, the line and the break, with an apparentness now inevitable: <br>
 <br>
-the houses flank each other flank the cemetery <br>
-laid out like a spiderweb we know this from <br>
-the plans I know this from the satellite eye <br>
-overlooking the dead <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the houses flank each other flank the cemetery <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laid out like a spiderweb we know this from <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the plans I know this from the satellite eye <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;overlooking the dead <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(‘December 23rd, (Tătăraşi)’ Jeremy Allan Hawkins) <br>
 <br>
 Alongside representations of its effects, we find enquiries into violence’s 
@@ -38,7 +38,7 @@ we choose to nourish. <br>
 <br>
 There’s a wakeful honesty in this, whether hard-won or not even a matter 
 of choice. Many of the poems – Bob Beagrie’s ‘Hogtenburg,’ Desree’s 
-‘On going to Anguilla to bury my Grandad,’ or Charles Lang’s ‘New Shoes,’ 
+‘On going to Anguilla to bury my Grandad,’ or Charles Lang’s ‘New Shoes’, 
 for example – take on the function of the snapshot, while others use the
 specificity of the diarist - a documentary first person, dates and place names 
 for titles, gesturing to a world outside themselves. In Silas Curtis’ ‘Untitled,’ 
@@ -57,7 +57,7 @@ nosediving down to burn through our nice clothing, the sense of world
 we’ve been enveloped in; dissolving some patch of illusion we’d never 
 have noticed otherwise. In Cecilia Woloch’s ‘Reign of Embers,’ a young 
 terrorist screams ‘Even in your dreams, you won’t be safe,’ reminding us 
-of the perenni- al need to reckon with the ideals that keep us safe while 
+of the perennial need to reckon with the ideals that keep us safe while 
 others suffer. The first instalments of the sequence, published in The 
 American Journal of Poetry and awarded the Pushcart Prize in 2017, 
 opens with an epigraph from Bertold Brecht: ‘In the dark time will there 
@@ -71,7 +71,7 @@ preserve that past. David Ross Linklater’s ‘Field Language’ finds
 generational forgetting in the transience of farm labour. Like mallet
 blows, the linguistic labour of the recent past ‘was not nothing;’ to 
 hear the past speaking to us requires a commitment to renewal and 
-continuous (for- malised) restating or ‘tying the field anew to its 
+continuous (formalised) restating or ‘tying the field anew to its 
 boundaries.’ In Tawona Sithole’s ‘Rukweza Farmer,’ it’s actually 
 the process of revision that can be harnessed to enrich the mundane 
 pragmatism of the present and mobilise creativity. Pasichigare, ancestral 

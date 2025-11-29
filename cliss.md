@@ -27,7 +27,7 @@ on the solid halo and imagine” (‘Citrine’). <br>
 <br>
 Cabida’s ﬁrst pamphlet, *War Dove* (Bad Betty Press, 2020) similarly sought to chart the self’s unpeelings. His fascination with transitions, 
 with states of matter—liquid, solid, air—was already apparent. Its titular poem ends “like softening hardened honey, / crystallised and unﬂinching.” 
-But where War Dove’s phrasing could, at times, be clunky or convoluted—its conceptual workings laid out with didacticism—Symmetric of Bone’s touch is light, measured. 
+But where *War Dove*’s phrasing could, at times, be clunky or convoluted—its conceptual workings laid out with didacticism—Symmetric of Bone’s touch is light, measured. 
 Cabida has clearly been busy: reﬁning his voice, calibrating when to lead readers and when the barest suggestion will do. <br>
 <br>
 Most excitingly, he has allowed himself to experiment with whichever cross-disciplinary elements take his fancy: *haute joaillerie*, interior design, pop music, astrology, 

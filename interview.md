@@ -1,4 +1,4 @@
-[home](index.md) | [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
+[home](index.md) | [issues](issues.md)  |  [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
 
 <div align="right">
   <a href="issuefive.html">back to ISSUE FIVE</a>

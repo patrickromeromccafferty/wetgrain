@@ -1,9 +1,9 @@
 [home](index.md) | [issues](issues.md) | [shop](shop.md)  |  [about](about.md)
 
-# submissions
+## Submissions
 
 
-We will be open again for submissions of poetry and essays from 1st December 2025 until the 15th January 2026.
+Submissions are open until the 15th January 2026.
 
 ​
 ### General Guidelines:

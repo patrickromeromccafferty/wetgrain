@@ -1,6 +1,7 @@
 [home](index.md) | [about](about.md)  |  [shop](shop.md)  |  [submit](submit.md)
   
-
+<br>
+<br>
 <br>
 <br>
 <br>      
@@ -15,6 +16,9 @@
     <img src="pictures/wg4icon.png" alt="Issue Four" width="300"/>
   </a>
 </p>
+
+<br>
+<br>
 
 <p align="center">
   <a href="issuethree.html">

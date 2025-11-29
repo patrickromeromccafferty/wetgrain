@@ -1,5 +1,5 @@
 [home](index.md) | [issues](issues.md)  |  [about](about.md)  |  [submissions](submit.md)
-# shop
+## Shop
 
 ### Purchasing Copies
 

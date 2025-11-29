@@ -1,5 +1,9 @@
-[about](about.md)  |  [shop](shop.md)  |  [archive](archive.md)  |  [submit](submit.md)  
-  
+[home](index.md) | [issues](issues.md)  |  [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
+
+<div align="right">
+  <a href="issuefive.html">back to ISSUE FIVE</a>
+</div>
+
 ## The rooster
 
 
@@ -27,7 +31,10 @@ nor the path of the deer taught to you by Grandmother.
 
 If there is blood,  
 so will there be bullets to defend what’s ours.  
-  
+
+  <br>
+  <br>
+  <br>
        
      
      
@@ -57,4 +64,4 @@ khamí jamboò àña’ rí nisngájmáa xiñàa.
 Xí ríga ì’di,  
 màrigá’ màngaa xdúu àjuan’ rí màñaún ná jùwá ló’.  
 
-#### *Hubert Matiúwàa*
+*Hubert Matiúwàa (trans. Juana Adcock)*

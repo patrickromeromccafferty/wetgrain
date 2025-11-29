@@ -16,8 +16,6 @@
 <br>
 <br>
 
-<p align="center">
-​ <img src="wg3bk.png" alt="Issue 3" width="400"/>
 
 <br>
 <br>

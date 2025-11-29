@@ -1,8 +1,8 @@
 [home](index.md) | [issues](issues.md) | [shop](shop.md)  |  [submissions](submit.md)
 
-# about 
+## About 
 
-Wet Grain is a magazine for poetry that engages with matters of land-use, provenance, and ownership. It is edited by Patrick Romero McCafferty & Nasim Luczaj.
+Wet Grain is a magazine for poetry and essays on matters of land-use, provenance, and ownership. It is edited by Patrick Romero McCafferty & Nasim Luczaj.
 
 Its most recent issue (Sept 2025), guest-edited by Charles Lang, Eloise Birtwhistle, & Nasim Luczaj is [available now](shop.md).
 

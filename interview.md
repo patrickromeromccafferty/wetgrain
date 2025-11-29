@@ -1,9 +1,12 @@
 [home](index.md) | [about](about.md) | [shop](shop.md)  |  [submit](submit.md)
 
-# Unknotting the String 
-## An interview with Juana Adcock on her latest collection, I Sugar the Bones 
+<div align="right">
+  <a href="issuefive.html">back to ISSUE FIVE</a>
+</div>
 
-Juana Adcock is a Mexican poet, translator and editor based in Scotland. She is the author of Manca (Tierra Adentro), Vestigial (Stewed Rhubarb), a suite of poems responding to the work of Alasdair Gray, and Split (Blue Diode), which was a Poetry Book Society Choice and was included in The Guardi- an’s Best Poetry of 2019. She is co-editor of the anthology of poetry by Latin American women Temporary Archives (Arc Publications), and is currently translating the Mè’phàà poet Hubert Matiúwàa’s The Dogs Dreamt (Flipped Eye, forthcoming), Laura Wittner’s Translation of the Route (Poetry Translation Centre, forthcoming) and Lola Ancira’s The Sadness of Shadows (MTO Press, forthcoming 2024). She spoke to editor Patrick Romero McCafferty ahead of the publication of her latest collection, I Sugar the Bones, out with Outspoken Press in November. 
+## Unknotting the String: An interview with Juana Adcock on her latest collection, I Sugar the Bones 
+
+*Juana Adcock is a Mexican poet, translator and editor based in Scotland. She is the author of Manca (Tierra Adentro), Vestigial (Stewed Rhubarb), a suite of poems responding to the work of Alasdair Gray, and Split (Blue Diode), which was a Poetry Book Society Choice and was included in The Guardi- an’s Best Poetry of 2019. She is co-editor of the anthology of poetry by Latin American women Temporary Archives (Arc Publications), and is currently translating the Mè’phàà poet Hubert Matiúwàa’s The Dogs Dreamt (Flipped Eye, forthcoming), Laura Wittner’s Translation of the Route (Poetry Translation Centre, forthcoming) and Lola Ancira’s The Sadness of Shadows (MTO Press, forthcoming 2024). She spoke to editor Patrick Romero McCafferty ahead of the publication of her latest collection, I Sugar the Bones, out with Outspoken Press in November.* 
 
 *Patrick Romero McCafferty: I Sugar the Bones is your third full collection. Kaleidoscopically-formed, vociferous, and set mostly in Scotland, it speaks about the loneliness of consumerism, about commodity journeys, and the human structures that carve up the physical world: borders, industrial riverbanks, trade networks, to name a few. The places and materials it considers belong to the borderlands of late capitalism: brutal zones without doubt but also places of boundless interconnection and a spare, feral joy at times. Can you tell me a bit about how the collection came to be?* 
 

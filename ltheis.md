@@ -45,4 +45,3 @@ the poem is very enthusiastic about it all
 *Laura Theis*
   
 
-GABRIEL LEVINE BRISLIN

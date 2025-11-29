@@ -1,9 +1,4 @@
-[latest](issuesix.html) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)  |  <p align="right">
-  <a href="https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly">
-    <img src="subscribe.png" alt="Issue Six" width="120"/>
-  </a>
-</p>
-
+[latest](issuesix.html) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)  |  [subscribe](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly)
 
 
 

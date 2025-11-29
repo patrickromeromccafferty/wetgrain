@@ -4,7 +4,7 @@
   <a href="issuefour.html">back to ISSUE FOUR</a>
 </div>
 
-### a lazy clairvoyant predicts her own future with her phone’s autocomplete
+## a lazy clairvoyant predicts her own future with her phone’s autocomplete
 
 <br>
 

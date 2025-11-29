@@ -20,14 +20,14 @@ We will reply with an invoice including postage and post your copies to you when
 
 ### Subscriptions
 
-If you wish to support the magazine, you might like to consider taking out a subscription for the year. At £45, a subscription entitles you to: 
+If you wish to support the magazine, you might like to consider taking out a subscription for the year. At £40, a subscription entitles you to: 
 
-1. A copy the three issues due to be published in 2026 
+1. Copies of the three issues due to be published in 2026 
 2. 300 words of feedback from an editor on a single poem
 3. A bi-monthly hand-folded risograph poster of new poetry and reflections designed by Typewronger Books.
 4. A free space at one of our in-person workshops (Edinburgh, Glasgow, and London)
 
-You can request a subscription form by emailing diana [at] wetgrainpoetry.com 
+You can [subscribe here](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly) 
 
 <p align="center">
   <img src="pictures/table.jpeg" alt="banquet" width="400">

@@ -24,7 +24,7 @@
 
 
 <p align="center">
-​ <img src="wg6bk.jpeg" alt="Issue Six" width="400"/>
+​ <img src="wg6bk.png" alt="Issue Six" width="400"/>
 
 <p align="center">
 ​ <img src="line6.png" alt="Issue Six" width="400"/>

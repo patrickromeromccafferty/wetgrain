@@ -8,7 +8,7 @@
 
 <br>
 
-## [Editorial](editorial5.d)
+## [Editorial](editorial5.md)
 
 ## Poetry
 

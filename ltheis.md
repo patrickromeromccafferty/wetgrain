@@ -6,6 +6,8 @@
 
 ### a lazy clairvoyant predicts her own future with her phone’s autocomplete
 
+<br>
+
 my future is going well thanks  
 I really hope I haven’t made you  
 disappear  

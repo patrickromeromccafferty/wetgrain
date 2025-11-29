@@ -2,6 +2,8 @@
 
 ## Submissions
 
+<br>
+<br>
 
 Submissions are open until the 15th January 2026.
 

@@ -3,7 +3,7 @@
 
 ### Purchasing Copies
 
-To purchase copies please email diana [at] wetgrainpoetry.com with the following details:
+To purchase copies please email diana [at] wetgrainpoetry.co.uk with the following details:
 
 1. Name
 2. Number of copies

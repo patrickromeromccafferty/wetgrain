@@ -18,6 +18,8 @@ We will reply with an invoice including postage and post your copies to you when
 5. Issue Two, Summer 2021 £9
 6. Issue One, Summer 2020 (Sold Out)
 
+We also sell pdfs of all issues for £3 each. To order please email diana [at] wetgrainpoetry.co.uk with the issue(s) you'd like along with your name and address so we can invoice you to complete the sale. 
+
 ### Subscriptions
 
 If you wish to support the magazine, you might like to consider taking out a subscription for the year. At £40, a subscription entitles you to: 

@@ -10,7 +10,7 @@ Since 2020, the magazine has included the work of emerging poets alongside a Nob
 
 You can subscribe to our monthly newsletter [here](https://wet-grain-magazine.ghost.io/#/portal/signup/free). <br><br>
 
-Our communications manager is Dr. Diana Infante Vargas.
+Our communications manager is Dr. Diana Infante-Vargas.
 
 <p align="center">
   <img src="pictures/about.jpeg" alt="a" width="400">

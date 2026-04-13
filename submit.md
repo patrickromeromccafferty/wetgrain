@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Submissions are open until the 15th January 2026.
+Submissions will open again from 1st - 31st May 2026.
 
 ​
 ### General Guidelines:

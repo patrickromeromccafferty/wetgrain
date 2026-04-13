@@ -2,7 +2,10 @@
 
 <br>
 <br>
-<br>
+
+<div style="color:#A52A2A; text-align:center; font-weight:bold;">
+  ISSUE SEVEN OUT NOW
+</div>
 
 <p align="center">
   <img src="astra.jpg" alt="olives" width="500">

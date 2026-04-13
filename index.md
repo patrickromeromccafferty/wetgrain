@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/ISSUE%20SEVEN%20OUT%20NOW-A52A2A?style=for-the-badge&logoColor=white">
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <img src="astra.jpg" alt="olives" width="500">
 </p>

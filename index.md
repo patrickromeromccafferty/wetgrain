@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="astra.jpg" alt="olives" width="100">
+  <img src="astra.jpg" alt="olives" width="800">
 </p>
 
 <br>

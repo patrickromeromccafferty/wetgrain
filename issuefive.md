@@ -25,5 +25,5 @@ Original artwork by Julia Utreras
 
 <p align="center">
 ​ <img src="line5.png" alt="Issue Six" width="400"/>
-
+</p>
 

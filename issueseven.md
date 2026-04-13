@@ -26,9 +26,12 @@
 'The Quernstones of Loch nam Bràithntean', **Alec Finlay** / 'Stays', **Patrick Romero McCafferty & Nasim Luczaj** / 'Empedocles Syndrome', **George Finlay Ramsay** / 'ways of swimming on dry land', **ariel rosé**
 
 <br>
-Original artwork by Astra Papachristodoulou <br><br>
+Original artwork by Astra Papachristodoulou <br>
 
 
 <p align="center">
   <img src="astra2.jpg" alt="olives" width="800">
 </p>
+
+<br>
+Original artwork by Astra Papachristodoulou 

@@ -7,7 +7,7 @@
 <br>      
 <p align="center">
   <a href="issueseven.html">
-  <img src="astra.jpg" alt="olives" width="400">
+  <img src="astra.jpg" alt="olives" width="200">
 </p>
     
 <br>

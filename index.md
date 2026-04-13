@@ -1,9 +1,11 @@
 [latest](issuesix.html) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)  |  [subscribe](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly)
 
-
+<br>
+<br>
+<br>
 
 <p align="center">
-  <img src="astra.jpg" alt="olives" width="800">
+  <img src="astra.jpg" alt="olives" width="500">
 </p>
 
 <br>

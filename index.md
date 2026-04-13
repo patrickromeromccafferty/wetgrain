@@ -1,4 +1,7 @@
 [latest](issuesix.html) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)  |  [subscribe](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly)
+<br>
+<br>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISSUE%20SEVEN%20OUT%20NOW-A52A2A?style=for-the-badge&logoColor=white">

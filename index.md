@@ -1,7 +1,5 @@
 [latest](issuesix.html) |  [issues](issues.md) | [about](about.md)  |  [shop](shop.md)  |  [submissions](submit.md)  |  [subscribe](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly)
 
-<br>
-<br>
 
 <div style="color:#A52A2A; text-align:center; font-weight:bold;">
   ISSUE SEVEN OUT NOW

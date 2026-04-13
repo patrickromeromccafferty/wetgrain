@@ -8,7 +8,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img src="astra.jpg" alt="olives" width="500">

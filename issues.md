@@ -6,6 +6,14 @@
 <br>
 <br>      
 <p align="center">
+  <a href="issueseven.html">
+  <img src="astra.jpg" alt="olives" width="400">
+</p>
+    
+<br>
+<br>
+    
+<p align="center">
   <a href="issuesix.html">
     <img src="pictures/wg6icon.png" alt="Issue Six" width="250"/>
   </a>

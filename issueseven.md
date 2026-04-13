@@ -29,4 +29,4 @@
 Original artwork by Astra Papachristodoulou
 
 <p align="center">
-​ <img src="astra2.jpeg" alt="Issue Seven" width="400"/>
+​ <img src="astra2.jpeg" alt="Issue Seven" width="100"/>

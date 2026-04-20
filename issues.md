@@ -8,7 +8,7 @@
 <p align="center">
   <a href="issueseven.html">
   <img src="astra.jpg" alt="olives" width="300">
-</p>
+
     
 <br>
 <br>

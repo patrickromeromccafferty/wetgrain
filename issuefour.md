@@ -3,7 +3,7 @@
 <br> 
 <br> 
 
-# ISSUE FOUR*SUMMER 2023*
+# ISSUE FOUR  *SUMMER 2023*
 
 <br> 
 <br> 

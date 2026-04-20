@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISSUE%20SEVEN%20OUT%20NOW-A52A2A?style=for-the-badge&logoColor=white">
+  
 </p>
 
 <br>

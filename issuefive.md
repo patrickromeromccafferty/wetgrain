@@ -1,7 +1,7 @@
 [home](index.md) | [issues](issues.md) | [about](about.md) | [shop](shop.md)  |  [submissions](submit.md)
 <br> 
 <br> 
-# ISSUE FIVE &nbsp;&nbsp;&nbsp;&nbsp;*SUMMER 2024*
+# ISSUE FIVE &nbsp;&nbsp;&nbsp;*SUMMER 2024*
 
 
 <br>

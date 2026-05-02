@@ -13,12 +13,12 @@ You can subscribe to our monthly newsletter [here](https://wet-grain-magazine.gh
 Our communications manager is Dr. Diana Infante-Vargas.
 
 <p align="right">
-  <img src="flower1.jpeg" alt="a" width="200">
+  <img src="flower1.jpeg" alt="a" width="500">
 </p>
 
 
 <p align="right">
-  <img src="cslogo.png" alt="a" width="500">
+  <img src="cslogo.png" alt="a" width="200">
 </p>
 
 

@@ -20,7 +20,7 @@ We encourage and actively seek work by poets from underrepresented and marginali
 We pay **£75** per poem, & **£100** per thousand words of prose upon publication. <br><br>
 
 <p align="right">
-  <img src="flower2.jpeg" alt="a" width="400">
+  <img src="flower2.jpg" alt="a" width="700">
 </p>
 
 

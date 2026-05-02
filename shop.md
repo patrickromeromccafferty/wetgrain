@@ -32,6 +32,6 @@ If you wish to support the magazine, you might like to consider taking out a sub
 
 You can [subscribe here](https://wet-grain-magazine.ghost.io/#/portal/signup/6908b5704d80dc0008eb41e9/yearly) 
 
-<p align="center">
-  <img src="pictures/table.jpeg" alt="banquet" width="400">
+<p align="right">
+  <img src="flower3.jpg" alt="banquet" width="400">
 </p>

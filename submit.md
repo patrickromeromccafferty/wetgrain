@@ -17,7 +17,7 @@ We no longer accept simultaneous submissions.<br><br>
 If you haven’t already, we encourage prospective contributors to familiarise themselves with the poetry we publish by buying a copy of [a previous issue](shop.md). <br><br>
 We also consider pitches of essays and will occassionally publish **reviews of recent collections**. If you are sending us a pitch please outline why you think it would be a good fit for the magazine in your cover letter along with a sample of your prose. <br><br>
 We encourage and actively seek work by poets from underrepresented and marginalised backgrounds. <br><br>
-We pay **£75** per poem, & **£100** per thousand words of prose upon publication. <br><br>
+We pay **£50** per poem, **£70** in the case of translation, & **£100** per thousand words of prose upon publication. <br><br>
 
 <p align="right">
   <img src="flower2.jpg" alt="a" width="700">

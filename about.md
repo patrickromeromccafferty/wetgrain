@@ -6,7 +6,7 @@ Wet Grain is a magazine for poetry and essays on matters of land-use, provenance
 
 Its most recent issue, Spring 2026, is [available now](shop.md).
 
-Since 2020, the magazine has included the work of emerging poets alongside a Nobel Prize nominee, & recipients of awards including the Pulitzer, the Forward, a MacArthur Fellowship, the Pushcart Prize, the German Book Prize, the Somerset Maugham, and the Eric Gregory. Past issues have been guested-edited by Sylee Gore (Issue 4), Leo Boix & Nat Teitler FRSL (Issue 5: Latinx).
+Since 2020, the magazine has included the work of emerging poets alongside a Nobel Prize nominee, & recipients of awards including the Pulitzer, the Forward, a MacArthur Fellowship, the Pushcart Prize, the German Book Prize, the Somerset Maugham, and the Eric Gregory. Past issues have been guested-edited by Charles Lang, Eloise Birtwhistle, Sylee Gore, Leo Boix & Nat Teitler FRSL.
 
 You can subscribe to our monthly newsletter [here](https://wet-grain-magazine.ghost.io/#/portal/signup/free). <br>
 

@@ -102,25 +102,21 @@ The photographs show a quern being returned to a Lewisian loch, Màiri NicGillÌ
 
 Footnotes
 
-[1] Ronald Black: ‘The Day of the Quern-dust’, West Highland Free Press, 25 Sept 1987; [https://www.querndust. co.uk/jpgs/29TheDay.jpg] <br>
-[2] Grótti features in the Norse Edda of Snorri, Skáldskaparmál; I first discuss these myths in minnmouth (2017). <br>
-[3] Mike Parker Pearson, Niall Sharples, Jim Symonds: South Uist: Archaeology and History of a Hebridean Island, Tempus Publishing Ltd, (2004). <br>
-[4] Henry Castle: ‘A Crofters’ Memorial for Staffin’, commissioned by Atlas Arts, 2018; [https://www.henrycastle.com/ crofter-memorial.] Rubha nam Bràthairean is sometimes translated the brother’s point. <br>
-[5] ‘Blàthan Briste/Broken Flowers’, conceived by Alec Finlay for Taigh Chearsabhagh, Lochmaddy, North Uist, Monday 7 August – Saturday 28 October 2017, with contributions from Hannah Imlach, Hanna Tuulikki, and Lila Matsumoto. <br>
-[6] Billia Croo, Orkney, features in ebban an’ flowan, by Alec Finlay, Alistair Peebles, and Laura Watts, (2015). <br>
-[7] The photograph of the quernstone which I selected from the collection of Fergus Granville appears in a book- let and print by Hannah Imlach, produced by Peacock, Aberdeen. <br>
-[8] Kate gave us a tour of Cladh Hallan, a Neolithic house bult in an unusual figure-of-eight form, where we saw examples of saddle querns. [https://canmore.org.uk/site/108429/south-uist-cladh-hallan] <br>
-[9] For instance, the ridged patterns inscribed on Unstan bowls and baggy jars, found at crannog sites in the
-Western Isles. These date back to the first cooking of cereals in the 4th millennium BCE, and it is thought they
-played a role in sacred rituals, suggesting that crannogs were not always defensive structures. [https://www.nature.
-com/articles/s41467-022-32286-0] <br>
-[10] I was fortunate that my collaborator, Fraser Macdonald, has an intimate knowledge of the Western Isles and
-was working on a study of rockets, now published as Escape from Earth: A Secret History of the Space Rocket, 2021. <br>
-[11] Finlay Macdonald’s study, The Norse Mills of Lewis, maps every horizontal mill on that island; an example of
-what can be learnt by examining technology in a localised or isolated context. <br>
-[12] There are two small wind-turbines by Taigh Chearsabhagh; I added poems to these in Gaelic and English. <br>
-[13] The islands were reoccupied, but the final inhabitants left shortly after WW2. <br>
-
+[1] Ronald Black: ‘The Day of the Quern-dust’, West Highland Free Press, 25 Sept 1987; [https://www.querndust. co.uk/jpgs/29TheDay.jpg] <br><br>
+[2] Grótti features in the Norse Edda of Snorri, Skáldskaparmál; I first discuss these myths in minnmouth (2017). <br><br>
+[3] Mike Parker Pearson, Niall Sharples, Jim Symonds: South Uist: Archaeology and History of a Hebridean Island, Tempus Publishing Ltd, (2004). <br><br>
+[4] Henry Castle: ‘A Crofters’ Memorial for Staffin’, commissioned by Atlas Arts, 2018; [https://www.henrycastle.com/ crofter-memorial.] Rubha nam Bràthairean is sometimes translated the brother’s point. <br><br>
+[5] ‘Blàthan Briste/Broken Flowers’, conceived by Alec Finlay for Taigh Chearsabhagh, Lochmaddy, North Uist, Monday 7 August – Saturday 28 October 2017, with contributions from Hannah Imlach, Hanna Tuulikki, and Lila Matsumoto. <br><br>
+[6] Billia Croo, Orkney, features in ebban an’ flowan, by Alec Finlay, Alistair Peebles, and Laura Watts, (2015). <br><br>
+[7] The photograph of the quernstone which I selected from the collection of Fergus Granville appears in a booklet and print by Hannah Imlach, produced by Peacock, Aberdeen. <br><br>
+[8] Kate gave us a tour of Cladh Hallan, a Neolithic house bult in an unusual figure-of-eight form, where we saw examples of saddle querns. [https://canmore.org.uk/site/108429/south-uist-cladh-hallan] <br><br>
+[9] For instance, the ridged patterns inscribed on Unstan bowls and baggy jars, found at crannog sites in the Western Isles. These date back to the first cooking of cereals in the 4th millennium BCE, and it is thought they played a role in sacred rituals, suggesting that crannogs were not always defensive structures. [https://www.nature.
+com/articles/s41467-022-32286-0] <br><br>
+[10] I was fortunate that my collaborator, Fraser Macdonald, has an intimate knowledge of the Western Isles and was working on a study of rockets, now published as Escape from Earth: A Secret History of the Space Rocket, 2021. <br><br>
+[11] Finlay Macdonald’s study, The Norse Mills of Lewis, maps every horizontal mill on that island; an example of what can be learnt by examining technology in a localised or isolated context. <br><br>
+[12] There are two small wind-turbines by Taigh Chearsabhagh; I added poems to these in Gaelic and English. <br><br>
+[13] The islands were reoccupied, but the final inhabitants left shortly after WW2. <br><br>
+Alec Finlay
 
 
 

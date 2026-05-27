@@ -64,9 +64,9 @@ herself in shame. Then I will dress as her, and leave the building. But<br>
 while I am speaking you will forget all of this, and the whole thing, the<br>
 texture of its unfolding, will come as a surprise.<br><br>
 Ok. So here goes.<br>
-<br><br>
+<br><br><br><br>
 #### 2. THESIS
-<br><br>
+<br><br><br><br>
 *SPEAKER slowly and deliberately cuts the second joint off the carnation’s stem,<br>
 allowing the segment to fly off wherever it may go. Then cuts a piece of hair and<br>
 puts it in the ramekin.* <br><br>
@@ -160,3 +160,161 @@ where the poet remembers being a harp string, a strong wild boar, a <br>
 salmon in the water. The poem ‘The Battle of The Trees’ bears striking <br>
 resemblance to the Empedocles quote that I began with, so much so that I <br>
 will read you its opening: <br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was in many forms <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before my release; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was a slim enchanted sword, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe in its play.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was a drop in air,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sparkling of stars,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A word inscribed,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A book in priest’s hands,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A lantern shining<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a year and a half<br>
+<br>
+Taliesin was not one single poet, but a poetic voice that poets chose to use<br>
+over the course of several hundred years in mediaeval Wales. I think this<br>
+speaks a great deal about our current ideas of originality in art, about oral<br>
+culture and the humility that it implies. At one point in the poem, there<br>
+is a line ‘when the trees were enchanted, in the anticipation of not being<br>
+trees’. Let us as people be enchanted, in the anticipation of not being<br>
+people.<br>
+<br>
+I was introduced to Taliesin by my housemate, a deeply enchanted, tall<br>
+Welsh man named Meilyr Jones. I woke one night to find him reading<br>
+from ‘The Battle of the Trees’ in Welsh having returned late from the pub.<br>
+When I went back to bed it was reverberating in my body like a crystal<br>
+charged with energy. Meilyr is living proof that the re-enchantment of the <br>
+world is not only possible, but accessible to us in any given moment, indeed<br>
+it was he who inspired me to write this. Am I suggesting that we return to<br>
+a Medieval world? No, but the 13th century was perhaps the last moment<br>
+in Europe where an animist worldview was prevalent, so charting the<br>
+golden thread of its poets might hold a key to the mess we are in.<br>
+And the mess we are in, without going into the details, I think we are<br>
+all aware, brings me to think about ecology. The Pre-Socratic worldview<br>
+and the ecological one have much in common: they see the world as an<br>
+interconnected web. As I hinted earlier I have been inspired by recent<br>
+archeological evidence, uncovered in Arcagas, Sicily, that Empedocles was<br>
+in fact a woman, and suffered from imposter syndrome, which forced her<br>
+to run up Mount Etna and throw herself inside. She was the last western<br>
+philosopher to express her ideas in verse, and proposed a schema for how<br>
+the world is made up in what she termed ‘roots’: that everything is fire,<br>
+water, air and earth, with the forces of love and strife binding things<br>
+together and tearing them apart. Without love things fall apart, without<br>
+strife there is no motion. Like gravity and entropy. She also believed in<br>
+metempsychosis: that matter and spirit are interconnected and thus the<br>
+soul is reborn as the matter is reintegrated into the world, a development<br>
+of Heraclitus’ ideas about flow. Thus she had already been a boy and girl, a<br>
+shrub and a bird, and the fish that leaps from the sea as it travels. To think<br>
+like Empedocles, the rational mind is not enough. As 13th century mystic<br>
+Marguerite Porete said, ‘Reason is always half blind’.<br>
+
+I want to argue that it is not a coincidence that early cinema, the early<br>
+modern novel, early Welsh poetry and early philosophy were so lively but<br>
+that they form a pattern unfolding throughout time, reflected in many<br>
+moments and movements, and a mode of thinking and being that we can<br>
+all access at any moment, in any era.<br>
+<br><br><br><br>
+#### 3. COUNTER THESIS
+<br><br><br><br>
+*SPEAKER slowly and deliberately cuts the third joint off the carnation’s stem,<br>
+allowing the segment to fly off wherever it may go. SPEAKER then moves the<br>
+ramekin onto the script, picks up the nail scissors and cuts one nail, allowing it<br>
+to fall into the ramekin, and replaces the ramekin in its original position.*
+<br><br>
+The quote is from Simone Weil:<br>
+‘Contradiction is the lever of transcendence’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*SPEAKER*
+<br><br>
+But surely we need structure, we need crystalisation, it is an inevitable<br>
+process that any given form will find its language as it develops. Isn’t<br>
+history just a pendulum between chaos and order? And aren’t chaos and<br>
+order part of the same cosmos. I mean, if everyone wrote like Gombrowicz<br>
+how would you sleep at night?<br>
+<br>
+And again, nostalgia for origins can be dangerous ‘the way one becomes a<br>
+fascist [is] by darkly pining for mistaken origins’.<br>
+Svetlana Boym, in her book The Future of Nostalgia, lays out two kinds of<br>
+nostalgia: restorative and reflective.<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restorative nostalgia is at the core of recent national<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and religious revivals. It knows two main plots—<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the return to origins and the conspiracy. Reflective<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nostalgia does not follow a single plot but explores<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ways of inhabiting many places at once and imagining<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;different time zones. It loves details, not symbols...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restorative nostalgia protects the absolute truth,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while reflective nostalgia calls it into doubt.<br>
+<br>
+Doubt here, is key. We need a generative form of doubt, like a generative<br>
+form of contradiction. A state which is in flow is one which has room for<br>
+contradiction, even paradox.<br>
+<br>
+Pasolini is such an appealing figure for me because he allowed contradiction<br>
+to flow in and out. He was a gay, pagan, Catholic Marxist. Perhaps another<br>
+place where fascism gets its start: certitude and the denial of contradiction.<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lo scandalo del contraddirmi, dell’essere<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con te e contro te; con te nel cuore,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in luce, contro te nelle buie viscere;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The scandal of contradicting myself, of being<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with you and against you; with you in the heart,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the light, against you in the dark viscera;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pier Paolo Pasolini, Gramsci’s Ashes (1954)<br>
+<br>
+Another great figure who lived out their contradiction (contradiction<br>
+being in fact the opposite of hypocrisy, hypocrisy being the denial of<br>
+contradiction) is Simone Weil, whom I mentioned before. Weil was an<br>
+anarchist individualist, a Jewish Catholic, who said that collectivity was<br>
+evil yet went to help the Republicans in the Spanish Civil War. As a<br>
+writer she is simultaneously intractable and aphoristically accessible. If I<br>
+have a gravestone (if they manage to find some remains after the volcanic<br>
+incineration) I would have Weil’s epigrammatic statement engraved on it:<br>
+‘Contradiction is the lever of transcendence’ perhaps with a little picture<br>
+of the catapult that got me into the crater. Her lever is a rigid little<br>
+metaphor for the process of arrival into a fluid place. It mirrors her phrase<br>
+that ‘Christ’s body was the counterweight of the universe’. Perhaps reality<br>
+needs prying open in order to arrive into the flowing iridescent sea of<br>
+transcendence. So here is my dare to you: contradict yourself today. Do it<br>
+now, right now.<br>
+<br><br><br><br>
+#### 4. SYNTHESIS
+<br><br><br><br>
+*SPEAKER slowly and deliberately cuts the fourth join off the carnation’s stem,<br>
+allowing the segment to fly off wherever it may go. SPEAKER then picks up the<br>
+q-tip, turns head left, carefully removes the wax from right ear, looks in mild<br>
+disgust at the yellowed cotton end, then dispenses of it in the ramekin.*<br>
+<br>
+The quote is from Bart Simpson:<br>
+‘What is the sound of one hand clapping?’<br>
+mimes one hand clapping against itself<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*SPEAKER*
+<br><br><br><br>
+So how to pry ourselves open into this magic place I hear you thinking?<br><br>
+In Zen Buddhism there is a concept, ‘Beginner’s Mind’:<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘In the beginner’s mind there are many possibilities,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but in the expert’s mind there are few’<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shunryū Suzuki, Zen Mind, Beginner’s Mind (1970)<br><br>
+One tool for accessing beginner’s mind is the koan, a sort of a riddle that<br>
+is supposed to stun the mind into silence: ‘If you meet the Buddha in the<br>
+road, kill him’—or: ‘what is the sound of one hand clapping’ ... [claps one<br>
+hand again, slower this time]<br><br>
+Clowning and zen have much in common, because in order to become
+a clown you have to get yourself out of the way. A clown is someone
+who takes seriously what is seemingly ridiculous, and what is seemingly
+ridiculous is often where deep truth lies, where great insight becomes
+possible. I see the Pre-Socratics as clowns: Heraclitus, who refused to
+be understood, who delivered his philosophy in cryptic aphorisms, who
+died covered in dung after failing to cure himself from dropsy; Zeno, who
+
+refuted that motion existed; Empedocles, who ran up Mt Etna to self-
+incinerate, attempting to her followers that she was a god, but leaving a
+
+silver sandal on the crater rim; Thales falling into his well... these are the
+gestures of clowns, and it takes a clown to reinvent the world, a Charlie
+Chaplin, dancing with the globe in The Great Dictator—one of the most
+beautiful gestures in cinema ever—a nonverbal somatic contradiction,
+choreographic statement about fascism, folly, hubris, and beauty that
+surpasses the rational. It takes a clown to reinvent the world. (We can

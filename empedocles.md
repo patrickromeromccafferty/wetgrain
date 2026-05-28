@@ -301,20 +301,104 @@ One tool for accessing beginner’s mind is the koan, a sort of a riddle that<br
 is supposed to stun the mind into silence: ‘If you meet the Buddha in the<br>
 road, kill him’—or: ‘what is the sound of one hand clapping’ ... [claps one<br>
 hand again, slower this time]<br><br>
-Clowning and zen have much in common, because in order to become
-a clown you have to get yourself out of the way. A clown is someone
-who takes seriously what is seemingly ridiculous, and what is seemingly
-ridiculous is often where deep truth lies, where great insight becomes
-possible. I see the Pre-Socratics as clowns: Heraclitus, who refused to
-be understood, who delivered his philosophy in cryptic aphorisms, who
-died covered in dung after failing to cure himself from dropsy; Zeno, who
+Clowning and zen have much in common, because in order to become<br>
+a clown you have to get yourself out of the way. A clown is someone<br>
+who takes seriously what is seemingly ridiculous, and what is seemingly<br>
+ridiculous is often where deep truth lies, where great insight becomes<br>
+possible. I see the Pre-Socratics as clowns: Heraclitus, who refused to<br>
+be understood, who delivered his philosophy in cryptic aphorisms, who<br>
+died covered in dung after failing to cure himself from dropsy; Zeno, who<br>
+refuted that motion existed; Empedocles, who ran up Mt Etna to self-<br>
+incinerate, attempting to her followers that she was a god, but leaving a<br>
+silver sandal on the crater rim; Thales falling into his well... these are the<br>
+gestures of clowns, and it takes a clown to reinvent the world, a Charlie<br>
+Chaplin, dancing with the globe in The Great Dictator—one of the most<br>
+beautiful gestures in cinema ever—a nonverbal somatic contradiction,<br>
+choreographic statement about fascism, folly, hubris, and beauty that<br>
+surpasses the rational. It takes a clown to reinvent the world. (We can<br>
+return another day to discuss the difference between Donald Trump and<br>
+Werner Herzog).<br>
+<br>
+Empedocles’s sense that she had lived before is in stark opposition to a<br>
+Platonic idea of spirit as removed from matter. Personally, when I am lost,<br>
+I lie in the bath and visualise dissolving inside a volcano, and as I dissolve I<br>
+become part of the universal continuum, sensing that I am a nothing, with<br>
+nothing to say, who can perhaps speak a tiny something only through a<br>
+channelling, and my chosen lineage is with the forms before the forms, and<br>
+those who dreamt in the abyss.<br>
+<br>
+Instead I offer an image: I see Empedocles running up Mount Etna, sweat<br>
+running down her beard, her mind a mess of inner winds, no longer sure<br>
+that she is a god, but as she runs her body and volcano merge, she leaves<br>
+behind the world of forms, and moves towards dissolving.<br><br>
+*SPEAKER steps on a loop pedal under the desk and this phrase loops
+monotonously and continues making loops, extended vocal grunts and howls,
+clinking of glass, slurping of water, rattling of matches*<br><br>
+*VOICE OVER (from the sound desk)*<br><br>
 
-refuted that motion existed; Empedocles, who ran up Mt Etna to self-
-incinerate, attempting to her followers that she was a god, but leaving a
+<br><br>
 
-silver sandal on the crater rim; Thales falling into his well... these are the
-gestures of clowns, and it takes a clown to reinvent the world, a Charlie
-Chaplin, dancing with the globe in The Great Dictator—one of the most
-beautiful gestures in cinema ever—a nonverbal somatic contradiction,
-choreographic statement about fascism, folly, hubris, and beauty that
-surpasses the rational. It takes a clown to reinvent the world. (We can
+#### I - Post Resurrection Blues<br>
+And believing she is a fraud<br>
+having played her resurrection trick<br>
+(levers, haze, a little balloon)<br>
+on some old crone<br><br>
+Empedocles of Arcagas (E for short)<br>
+slips away<br>
+from her lover’s warm spoon<br>
+where they lie, post-feast, post-fuck,<br>
+a small rip<br>
+& the sliver of dawn<br>
+opens up<br><br>
+Once free she begins<br>
+ascending<br>
+that great redeemer<br>
+Mt Etna (I burn)<br><br>
+Earlier that day<br>
+dressing for the post-resurrection drinks<br>
+she’d slipped on some dressy shoes<br>
+strappy patent leather things, a little silver heel<br>
+seeming cute at the time (mother’s heirloom),<br>
+but now as she scrambles across<br>
+basalt<br>
+she curses ‘I should have worn the bloody Brooks!’<br>
+Her mind a mess<br>
+of inner winds,<br>
+and many fires<br>
+which speak of being caught out:<br>
+What happens when, say,<br>
+one reveller realises they’ve left their<br>
+purse at the old lady’s house<br>
+returns, knocks, nothing<br>
+nudges door ajar,<br>
+finds old bitch snake cold<br>
+and cries ‘E has impeded the whole truth!<br>
+the rest about Roots n Strife<br>
+must musn’t also be right!’<br>
+So up & up she toils<br>
+in spite of poor footwear choices<br>
+& as sweat begins to pour down her beard,<br>
+the liquid dawn solidifies into morning;<br>
+the candid April sun<br>
+casts a basalt shadow show<br>
+something lifts in her mood<br>
+fresh winds bring hope<br>
+and with it ideas<br>
+(those dangerous bedfellows)<br>
+and because stories take no time<br>
+we ascend like this:<br><br>
+Crunch<br>
+Up!<br><br>
+With the view getting more and more<br>
+I-N-S-T-A-G-R-A-M-M-A-B-L-E<br>
+she pivots for a moment<br>
+turns a silver heal<br>
+‘goddamn!’<br>
+tumbles into a ravine<br>
+knocks head against raven-black rock<br>
+and the picture goes dark<br><br>
+—<br><br>
+a beat<br><br>
+—<br><br>
+nothing.<br><br><br><br>
+*George Finlay Ramsay*

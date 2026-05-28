@@ -83,7 +83,7 @@ by darkly pining for mistaken origins’. But who gets to decide which are<br>
 mistaken origins and which are authentic ones? Perhaps origins is the<br>
 wrong discourse. So let’s not talk about them after all.<br><br>
 So what do I want to talk about? Well… as previously stated I am<br>
-researching a film called The Empedocles Clause, about two voyages up Mt<br>
+researching a film called *The Empedocles Clause*, about two voyages up Mt<br>
 Etna to self-immolate, separated by 2500 years. One of those voyages made<br>
 by the Pre-Socratic philosopher Empedocles, who, from a newly-discovered<br>
 fragment we understand to have been a woman suffering from terrible<br>
@@ -106,10 +106,10 @@ like our dreams, images were recorded onto a strip of cellulose with light<br>
 sensitive silver nitrate, then projected onto screens to give the illusion<br>
 of motion, like Zeno’s arrow, always moving, always still. Its early artists<br>
 displayed a freedom of language and a cosmic fixation. Georges Méliès<br>
-loved special effects and used them strikingly in Le Voyage dans la Lune<br>
+loved special effects and used them strikingly in *Le Voyage dans la Lune*<br>
 (1902). He played with them like a 4-year-old who is still an animist, who<br>
 understands the world as a lively place. Jean Cocteau was also a master of<br>
-invention when it came to special effects, and Le Sang d’un Poet (1930)<br>
+invention when it came to special effects, and *Le Sang d’un Poet* (1930)<br>
 begins with an artist in his studio, his sculpture coming to life and telling<br>
 him to climb through the mirror. He does, and the shot as he passes<br>
 through the mirror is intercut with an aerial shot of him falling into an<br>
@@ -124,25 +124,26 @@ are now so formulaic, so governed by dogma, that you will often see an<br>
 inciting incident on exactly the page that the scriptwriting guru Syd Field<br>
 says it should occur (between p. 25-27). This is partly why it is comforting<br>
 to watch these films: we have already seen them a thousand times.<br><br>
+
 The novel has existed since the classical era, however the novel as we<br>
 know it, the novel that is so much about the subjective experience of the<br>
 individual didn’t emerge until the 18th century. Laurence Sterne was a<br>
-minister in 18th century England, who wrote the famous novel The Life<br>
-and Opinions of Tristram Shandy, Gentleman (1759). Sterne’s great invention<br>
+minister in 18th century England, who wrote the famous novel *The Life<br>
+and Opinions of Tristram Shandy, Gentleman* (1759). Sterne’s great invention<br>
 was a novel of digressions. There are so many digressions that our<br>
 narrator, Tristram, isn’t born until half way through. There are also many<br>
 typographic innovations, including a black page when Parson Yorick dies.<br>
 Again it is no coincidence that this very early modern novel is so inventive,<br>
 the form hadn’t yet crystalised, there weren’t set rules to play by, so Sterne<br>
 made his own.<br><br>
-Witold Gombrowicz said of his novel, Ferdydurke (1937): ‘We live in an<br>
+Witold Gombrowicz said of his novel, *Ferdydurke* (1937): ‘We live in an<br>
 era of violent changes, of accelerated development, in which settled forms<br>
 are breaking under life’s pressure… The need to find a form for what is<br>
 yet immature, uncrystallised and underdeveloped, as well as the groan<br>
 at the impossibility of such a postulate – this is the chief excitement of<br>
 my book.’ Whilst what he describes at various points as ‘immaturity’,<br>
 ‘greenness’, is not unproblematic, this coming from a man whose later<br>
-novel Pornografia (1960) is about two adult men trying to force a love <br>
+novel *Pornografia* (1960) is about two adult men trying to force a love <br>
 affair between two youths in a small town in Poland, it has a connection <br>
 to what I am attempting to appeal to: that the uncrystallised form is the <br>
 sacred one. *Gombrowicz’s philosophy of immaturity, whilst it may seem <br>
@@ -234,7 +235,7 @@ how would you sleep at night?<br>
 <br>
 And again, nostalgia for origins can be dangerous ‘the way one becomes a<br>
 fascist [is] by darkly pining for mistaken origins’.<br>
-Svetlana Boym, in her book The Future of Nostalgia, lays out two kinds of<br>
+Svetlana Boym, in her book *The Future of Nostalgia*, lays out two kinds of<br>
 nostalgia: restorative and reflective.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restorative nostalgia is at the core of recent national<br>
@@ -262,7 +263,7 @@ place where fascism gets its start: certitude and the denial of contradiction.<b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with you and against you; with you in the heart,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the light, against you in the dark viscera;<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pier Paolo Pasolini, Gramsci’s Ashes (1954)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pier Paolo Pasolini, *Gramsci’s Ashes* (1954)<br>
 <br>
 Another great figure who lived out their contradiction (contradiction<br>
 being in fact the opposite of hypocrisy, hypocrisy being the denial of<br>
@@ -296,8 +297,8 @@ So how to pry ourselves open into this magic place I hear you thinking?<br><br>
 In Zen Buddhism there is a concept, ‘Beginner’s Mind’:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘In the beginner’s mind there are many possibilities,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but in the expert’s mind there are few’<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shunryū Suzuki, Zen Mind, Beginner’s Mind (1970)<br><br>
-One tool for accessing beginner’s mind is the koan, a sort of a riddle that<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shunryū Suzuki, *Zen Mind, Beginner’s Mind* (1970)<br><br>
+One tool for accessing beginner’s mind is the *koan*, a sort of a riddle that<br>
 is supposed to stun the mind into silence: ‘If you meet the Buddha in the<br>
 road, kill him’—or: ‘what is the sound of one hand clapping’ ... [claps one<br>
 hand again, slower this time]<br><br>
@@ -312,7 +313,7 @@ refuted that motion existed; Empedocles, who ran up Mt Etna to self-<br>
 incinerate, attempting to her followers that she was a god, but leaving a<br>
 silver sandal on the crater rim; Thales falling into his well... these are the<br>
 gestures of clowns, and it takes a clown to reinvent the world, a Charlie<br>
-Chaplin, dancing with the globe in The Great Dictator—one of the most<br>
+Chaplin, dancing with the globe in *The Great Dictator*—one of the most<br>
 beautiful gestures in cinema ever—a nonverbal somatic contradiction,<br>
 choreographic statement about fascism, folly, hubris, and beauty that<br>
 surpasses the rational. It takes a clown to reinvent the world. (We can<br>

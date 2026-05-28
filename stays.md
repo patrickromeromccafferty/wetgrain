@@ -175,7 +175,7 @@ word-of-mouth. I dream a lot about Venice (who has been and doesn’t?!) and
 use dreams to assess a location’s imprint on my mental landscape. As a child
 craving UK-ness, I often dreamt of portals from Poland to England. Over the
 past couple of years, I’ve kept returning to Marrakesh, and I dream about it
-all the time – arguably as much as the places I’ve stayed stayed at. The fantasy
+all the time – arguably as much as the places I’ve *stayed* stayed at. The fantasy
 novel map of my world would now need to include Marrakesh.<br><br> 
 
 The more keenly aware I am of my luck and the enjoyment I take in the
@@ -236,9 +236,9 @@ myself a never-ending story in which I lived in a treehouse. I’m sad I don’t
 it anymore but maybe it stems back to that time that writing feels vigorous
 in itself. Not laboured, necessarily, but satisfyingly fricative (nervous too, as
 in, from or of the nerves) and I like it when I feel that vigour come across
-when I read. I’ve not read the Paris Review piece, but Oswald’s voice is like
+when I read. I’ve not read the *Paris Review* piece, but Oswald’s voice is like
 that for me, since you mentioned her. I love listening to her read from Dart.
-Another word that surfaces with Dart is ‘drift’, of course. The eddies, white
+Another word that surfaces with *Dart* is ‘drift’, of course. The eddies, white
 water, and locks it passes through, carried by the force of the river. I found it
 interesting how the way you used it to describe your movements made others
 react. Drift is so calm. Driftwood drifts. A leaf in a stream drifts. I long for
@@ -409,7 +409,7 @@ them.* <br><br>
   <img src="diana.png" alt="a" width="250">
 </p>
 
-I am well aware that the Wet Grain readership needs no hypnotising. We
+I am well aware that the *Wet Grain* readership needs no hypnotising. We
 don’t want to be didactic. Still, as a freshly budding editor, I can’t help but
 feel some form of manifesto take shape within me as we speak. We’ve talked
 balance and variety within our lives, and I’ve touched on equilibrium with the
@@ -425,5 +425,5 @@ granularity of perception, lateral and difficult thinking, so that we can non-
 trivially feel where we are and do something about it.<br><br>
 
 Thanks for bringing me here, Patrick – both into the space of these questions
-and into Wet Grain. This whole conversation has felt like a hike, turning so
+and into *Wet Grain*. This whole conversation has felt like a hike, turning so
 many corners that open up view after view. And this is just the beginning!

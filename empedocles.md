@@ -331,8 +331,8 @@ Instead I offer an image: I see Empedocles running up Mount Etna, sweat<br>
 running down her beard, her mind a mess of inner winds, no longer sure<br>
 that she is a god, but as she runs her body and volcano merge, she leaves<br>
 behind the world of forms, and moves towards dissolving.<br><br>
-*SPEAKER steps on a loop pedal under the desk and this phrase loops
-monotonously and continues making loops, extended vocal grunts and howls,
+*SPEAKER steps on a loop pedal under the desk and this phrase loops<br>
+monotonously and continues making loops, extended vocal grunts and howls,<br>
 clinking of glass, slurping of water, rattling of matches*<br><br>
 *VOICE OVER (from the sound desk)*<br><br>
 

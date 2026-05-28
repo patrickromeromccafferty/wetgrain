@@ -7,7 +7,7 @@
 <br>
 <br>
 
-Empedocles Syndrome
+## Empedocles Syndrome
 
 <br>
 <br>

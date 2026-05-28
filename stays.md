@@ -161,6 +161,10 @@ surface self, its concepts and sense of spacetime. I’m using as many senses as
 possible to tap into a world resonating with life, its presence a whole other
 language. I can feel the energy of the sun pour down into my writing.<br><br> 
 
+<p align="center">
+  <img src="nasim.png" alt="a" width="250">
+</p>
+
 I’ve always spent a good three months of each year in places warmer than
 the UK. I go to Poland for the better part of summer, and I’ve spent the past
 few turns of August and September at my partner’s parents’ house in Veneto,
@@ -278,7 +282,7 @@ conviction, it emerges when I feel the sun of uncertainty on my eyelids,
 taking form from what appears initially as a silhouette. When my life and
 environment have been more predictable, uncertainty has imposed itself far
 less, or at least it becomes harder to confront when I’m comfortably situated
-in them both. Glass Knot Sun doesn’t have any poems about Edinburgh in it
+in them both. *Glass Knot Sun* doesn’t have any poems about Edinburgh in it
 simply because I haven’t written that many, even though I love that city and
 feel like an OG there. I say this half-jokingly, but giving up the flat might
 have been a flamboyant way of exposing myself to the states and emotions,
@@ -295,6 +299,10 @@ I’d feel shame if I didn’t do so in good faith, in the hope that it means
 something. Do you know what I mean? I think this true of the choices I’ve
 made around where to go too. If I felt the value I could bring to others was
 minimal then I wouldn’t do it. <br><br>
+
+<p align="center">
+  <img src="patrick.png" alt="a" width="250">
+</p>
 
 For what it’s worth, I only suggested nomad because we were in Marrakesh.
 Having been brought up in Edinburgh, a city that has sooked up resources
@@ -396,6 +404,10 @@ into the collective unconscious and prevailing sense of aesthetics through the
 arts. Realistically, the measures would probably need to be more extreme; my
 aunt said, of the villagers fighting to cut the oaks down, *we need to hypnotise
 them.* <br><br>
+
+<p align="center">
+  <img src="diana.png" alt="a" width="250">
+</p>
 
 I am well aware that the Wet Grain readership needs no hypnotising. We
 don’t want to be didactic. Still, as a freshly budding editor, I can’t help but

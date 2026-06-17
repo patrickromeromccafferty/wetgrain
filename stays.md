@@ -162,7 +162,7 @@ possible to tap into a world resonating with life, its presence a whole other
 language. I can feel the energy of the sun pour down into my writing.<br><br> 
 
 <p align="center">
-  <img src="nasim.png" alt="a" width="250">
+  <img src="nasim.png" alt="a" width="500">
 </p>
 
 I’ve always spent a good three months of each year in places warmer than
@@ -301,7 +301,7 @@ made around where to go too. If I felt the value I could bring to others was
 minimal then I wouldn’t do it. <br><br>
 
 <p align="center">
-  <img src="patrick.png" alt="a" width="250">
+  <img src="patrick.png" alt="a" width="500">
 </p>
 
 For what it’s worth, I only suggested nomad because we were in Marrakesh.
@@ -406,7 +406,7 @@ aunt said, of the villagers fighting to cut the oaks down, *we need to hypnotise
 them.* <br><br>
 
 <p align="center">
-  <img src="diana.png" alt="a" width="250">
+  <img src="diana.png" alt="a" width="500">
 </p>
 
 I am well aware that the *Wet Grain* readership needs no hypnotising. We

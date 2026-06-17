@@ -23,7 +23,7 @@
 
 <br>
 
-'The Quernstones of Loch nam Bràithntean', **Alec Finlay** / 'Stays', **Patrick Romero McCafferty & Nasim Luczaj** / ['Empedocles Syndrome', **George Finlay Ramsay**](empedocles.md) / 'ways of swimming on dry land', **ariel rosé**
+'The Quernstones of Loch nam Bràithntean', **Alec Finlay** / ['Stays', **Patrick Romero McCafferty & Nasim Luczaj**](stays.md) / 'Empedocles Syndrome', **George Finlay Ramsay** / 'ways of swimming on dry land', **ariel rosé**
 
 <br>
 

@@ -425,4 +425,6 @@ trivially feel where we are and do something about it.<br><br>
 
 Thanks for bringing me here, Patrick – both into the space of these questions
 and into *Wet Grain*. This whole conversation has felt like a hike, turning so
-many corners that open up view after view. And this is just the beginning!
+many corners that open up view after view. And this is just the beginning! <br>
+<br><br>
+*Illustrations by Vita Lerche*

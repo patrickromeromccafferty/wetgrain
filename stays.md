@@ -60,8 +60,7 @@ and procedures of making travel cheap and reasonable, but you also have to
 be really good at being a guest. You have to be thrifty as hell but not to the
 extent you tuck yourself away from receiving unprompted kindness. It has
 taught me to lean on people sensitively and let go of the horrible tit-for-
-tat, the transactive logic that I’ve sometimes felt linger around friendships.<br>
-<br>
+tat, the transactive logic that I’ve sometimes felt linger around friendships.
 Living like this has been way cheaper than staying in Edinburgh would have
 been without sacrificing time I’d like to spend writing to do cash-in-hand
 labour for my brother or Deliveroo but I’ve had to adjust in other ways.

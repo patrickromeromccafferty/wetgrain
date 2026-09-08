@@ -7,7 +7,7 @@
 <br><br>
 
 <p align="center">
-  <img src="wg2bk.png" alt="Issue Six" width="400">
+  <img src="wg2bk.png" alt="Issue Six" width="300">
 </p>
 
 <br><br>
@@ -16,8 +16,6 @@
 
 <br>
 <br><br>
+<br><br>
 
 
-
-<br>
-Original artwork by Andreas Christodoulidis

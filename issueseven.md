@@ -9,7 +9,7 @@
 <br> 
 
 <p align="center">
-  <img src="astra.jpg" alt="Issue Six" width="600">
+  <img src="astra.jpg" alt="Issue Six" width="1000">
 </p>
 
 <br> 

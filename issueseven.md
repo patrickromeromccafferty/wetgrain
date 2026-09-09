@@ -9,13 +9,13 @@
 <br> 
 
 <p align="center">
-  <img src="wg6bk.png" alt="Issue Six" width="300">
+  <img src="asrta.jpg" alt="Issue Six" width="300">
 </p>
 
 <br> 
 <br> 
 
-## 'Enter Grass' 'Enter Imagination' Dalia Taha (trans. Sara Elkamel) • 'After John Christie's Letters to John Berger (2012)' **Jacob Burgess Rollo** • ['Exhibition'](exhibition.md) ['The Object' **Kevin Cormack**](theobject.md) •'Today' **Helen Calcutt** • from *A Hare's Heat* **Stanisław Kalina Jaglarz (trans. Scotia Gilroy)** • 'Arc', **Rupa Latif Rupa** •'The Well' **M. Scott Elizabeth** • 'Land side' **Eliza O'Toole** • 'Mona Kareem II' 'Speed Bump' **Mona Kareem (trans. Sara Elkamel)** • 'Human Geography' **Meredith MacLeod Davidson** • 'A Sickle Moon for Joe Luna' **Dom Hale** • 'Saxifraga' **Lucy Lovell** • ['A Move of Even A Single Second Should Be Taken As an Indication', **Taylor Strickland**](strickland.md) • 'Biennale' **Emily Fielding** • ['Life Drawing I' **Iona Lee**](lifedrawing.md) • 'Greenlandic bread for the tropics' **Elżbieta Wójcik-Leese** • 'I Refuse To Name My Character' **Jinling Wu** • 'Mantle Music' **David Ross Linklater** • 'Rambling Poem' **Jacob James Hurley** • ['Elgol Self-Catering', **William Wyld**](elgol.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'The Quernstones of Loch nam Bràithntean' **Alec Finlay** • ['Stays', **Patrick Romero McCafferty & Nasim Luczaj** • 'Empedocles Syndrome' **George Finlay Ramsay** • 'ways of swimming on dry land' **ariel rosé** 
+## 'Enter Grass' 'Enter Imagination' Dalia Taha (trans. Sara Elkamel) • 'After John Christie's Letters to John Berger (2012)' **Jacob Burgess Rollo** • ['Exhibition'](exhibition.md) ['The Object' **Kevin Cormack**](theobject.md) •'Today' **Helen Calcutt** • from *A Hare's Heat* **Stanisław Kalina Jaglarz (trans. Scotia Gilroy)** • 'Arc', **Rupa Latif Rupa** •'The Well' **M. Scott Elizabeth** • 'Land side' **Eliza O'Toole** • 'Mona Kareem II' 'Speed Bump' **Mona Kareem (trans. Sara Elkamel)** • 'Human Geography' **Meredith MacLeod Davidson** • 'A Sickle Moon for Joe Luna' **Dom Hale** • 'Saxifraga' **Lucy Lovell** • ['A Move of Even A Single Second Should Be Taken As an Indication', **Taylor Strickland**](strickland.md) • 'Biennale' **Emily Fielding** • ['Life Drawing I' **Iona Lee**](lifedrawing.md) • 'Greenlandic bread for the tropics' **Elżbieta Wójcik-Leese** • 'I Refuse To Name My Character' **Jinling Wu** • 'Mantle Music' **David Ross Linklater** • 'Rambling Poem' **Jacob James Hurley** • ['Elgol Self-Catering', **William Wyld**](elgol.md) • 'The Quernstones of Loch nam Bràithntean' **Alec Finlay** • ['Stays', **Patrick Romero McCafferty & Nasim Luczaj** • 'Empedocles Syndrome' **George Finlay Ramsay** • 'ways of swimming on dry land' **ariel rosé** 
 
 <br> 
 <br> <br> 

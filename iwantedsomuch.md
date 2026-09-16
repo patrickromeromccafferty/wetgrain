@@ -8,19 +8,19 @@
 
 ## I wanted so much just to be <br>
 <br>
-The foam gently mapping. 
-The safer swim.
-The other deck, the dusk of. 
-My permanent desires.
-Not a crash but another simmer on your surface. 
-Over there, a following of information.
-A buffering of air.
-Ahead of breath by miles.
-Old time moving over here through the ripple of a word. 
-Your threaded thoughts.
-Hearing all that:
-the whoosh back
-the halt forward.
+The foam gently mapping. <br>
+The safer swim.<br>
+The other deck, the dusk of. <br>
+My permanent desires.<br>
+Not a crash but another simmer on your surface. <br>
+Over there, a following of information.<br>
+A buffering of air.<br>
+Ahead of breath by miles.<br>
+Old time moving over here through the ripple of a word. <br>
+Your threaded thoughts.<br>
+Hearing all that:<br>
+the whoosh back<br>
+the halt forward.<br>
 <br><br><br>
 
 *Kirsty Dunlop*

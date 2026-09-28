@@ -4,6 +4,9 @@
   <a href="issueeight.html">back to ISSUE EIGHT</a>
 </div>
 
+<br>
+<br>
+
 ## Editorial <br>
 <br>
 

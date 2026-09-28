@@ -4,15 +4,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISSUE%20SEVEN%20OUT%20NOW-A52A2A?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/ISSUE%20EIGHT%20OUT%20NOW-A52A2A?style=for-the-badge&logoColor=white">
  
 </p>
 
 <br>
 
 <p align="center">
-  <a href="issueseven.html">
-  <img src="astra3.jpeg" alt="olives" width="500">
+  <a href="issueeight.html">
+  <img src="seeds.jpg" alt="olives" width="500">
 
 
 <br>

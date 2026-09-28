@@ -5,9 +5,10 @@
 </div>
 
 <br><br>
-
+<br><br><br><br>
 <p align="center">
-​ <img src="acrowis.png" alt="ca1" width="300"/>
+​ <img src="acrowis.png" alt="ca1" width="500"/>
 </p>
+<br><br><br><br>
 
 *CAConrad*

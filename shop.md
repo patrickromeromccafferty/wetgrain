@@ -11,15 +11,16 @@ To purchase copies please email diana [at] wetgrainpoetry.co.uk with the followi
 
 We will reply with an invoice including postage and post your copies to you when we receive your payment. 
 
-1. Issue Seven, Spring 2026 (Pre-order) £15
-2. Issue Six, Autumn 2025 £15
-3. Issue Five, Latinx 2024 £11
-4. Issue Four, Summer 2023 (Sold Out)
-5. Issue Three, Summer 2022 (Sold Out)
-6. Issue Two, Summer 2021 £9
-7. Issue One, Summer 2020 (Sold Out)
+1. Issue Eight, Autumn 2026 £15
+2. Issue Seven, Spring 2026 £15
+3. Issue Six, Autumn 2025 £15
+4. Issue Five, Latinx 2024 (Sold Out)
+5. Issue Four, Summer 2023 (Sold Out)
+6. Issue Three, Summer 2022 (Sold Out)
+7. Issue Two, Summer 2021 £9
+8. Issue One, Summer 2020 (Sold Out)
 
-We also sell pdfs of all issues for £3 each. To order please email diana [at] wetgrainpoetry.co.uk with the issue(s) you'd like along with your name and address so we can invoice you to complete the sale. 
+We also sell pdfs of all issues for £3 each. To order please email info [at] wetgrainpoetry.co.uk with the issue(s) you'd like along with your name and address so we can invoice you to complete the sale. 
 
 ### Subscriptions
 

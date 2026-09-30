@@ -4,13 +4,13 @@
 
 Wet Grain is a magazine for poetry and essays on matters of land-use, provenance, and ownership. It is edited by Patrick Romero McCafferty & Nasim Luczaj.
 
-Its most recent issue, Autumn 2026, is [available now](shop.md).
+Its most recent issue, Autumn 2026, is [available now](https://wet-grain-magazine.ghost.io/#/portal/support).
 
 Since 2020, the magazine has included the work of emerging poets alongside a Nobel Prize nominee, & recipients of awards including the Pulitzer, the Forward, a MacArthur Fellowship, the Pushcart Prize, the German Book Prize, the Somerset Maugham, and the Eric Gregory. Past issues have been guested-edited by Charles Lang, Eloise Birtwhistle, Sylee Gore, Leo Boix & Nat Teitler FRSL.
 
 You can subscribe to our monthly newsletter [here](https://wet-grain-magazine.ghost.io/#/portal/signup/free). <br>
 
-Our communications manager is Dr. Diana Infante-Vargas.
+
 
 <p align="left">
   <img src="flower1.jpeg" alt="a" width="200">

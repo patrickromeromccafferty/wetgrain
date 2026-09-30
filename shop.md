@@ -3,13 +3,15 @@
 
 ### Purchasing Copies
 
-To purchase copies please email diana [at] wetgrainpoetry.co.uk with the following details:
+You can purchase copies [here](https://wet-grain-magazine.ghost.io/#/portal/support)
+
+Please include the following in the section marked 'Personal Note':
 
 1. Name
-2. Number of copies
+2. Issue number
 3. Delivery address
 
-We will reply with an invoice including postage and post your copies to you when we receive your payment. 
+Stock:
 
 1. Issue Eight, Autumn 2026 £15
 2. Issue Seven, Spring 2026 £15

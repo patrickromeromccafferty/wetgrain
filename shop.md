@@ -3,7 +3,8 @@
 
 ### Purchasing Copies
 
-You can purchase copies [here](https://wet-grain-magazine.ghost.io/#/portal/support)
+You can purchase copies [here](https://wet-grain-magazine.ghost.io/#/portal/support). 
+Issues cost £12 + £3 postage.
 
 Please include the following in the section marked 'Personal Note':
 
@@ -13,9 +14,9 @@ Please include the following in the section marked 'Personal Note':
 
 Stock:
 
-1. Issue Eight, Autumn 2026 £15
-2. Issue Seven, Spring 2026 £15
-3. Issue Six, Autumn 2025 £15
+1. Issue Eight, Autumn 2026 £12
+2. Issue Seven, Spring 2026 £12
+3. Issue Six, Autumn 2025 £12
 4. Issue Five, Latinx 2024 (Sold Out)
 5. Issue Four, Summer 2023 (Sold Out)
 6. Issue Three, Summer 2022 (Sold Out)

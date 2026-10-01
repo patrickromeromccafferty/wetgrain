@@ -4,7 +4,7 @@
 ### Purchasing Copies
 
 You can purchase copies [here](https://wet-grain-magazine.ghost.io/#/portal/support). 
-Issues cost £12 + £3 postage.
+<br> Issues cost £12 + £3 postage.
 
 Please include the following in the section marked 'Personal Note':
 
